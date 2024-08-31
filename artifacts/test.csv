@@ -1,0 +1,2233 @@
+BHK,sector,price,SuperArea,floor,Furnishing,facing,Car_Parking,Bathroom,Balcony,overlooking,city
+3,others,1.1,1650.0,1,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,3.0,2000.0,0,Unfurnished,East,not sure,3,1,Main Road,chennai
+3,Bandlaguda Jagir,1.0,2000.0,4,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+2,NH 9,1.2,1344.0,3,Semi-Furnished,East,not sure,2,3,Main Road,Hydrabad
+2,Yelahanka,0.736,1338.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.51,1250.0,0,Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.65,1170.0,5,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,3.8,2480.0,9,Semi-Furnished,North,available,3,3,"Garden/Park, Pool",Gurgaon
+2,others,0.6,1200.0,1,Furnished,East,not sure,2,1,Main Road,chennai
+3,Pragathi Nagar,0.78,1500.0,1,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+3,others,2.15,2391.0,2,Unfurnished,North,available,4,4,Main Road,Gurgaon
+2,others,0.484,1135.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,1.37,650.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Mumbai
+4,Borivali,6.66,1500.0,10+,Unfurnished,East,not sure,4,1,"Garden/Park, Pool",Mumbai
+2,Banaswadi,0.89,1050.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+1,others,0.4,514.0,0,Unfurnished,East,not sure,1,1,Main Road,Hydrabad
+2,others,3.9,800.0,5,Semi-Furnished,East,not sure,2,1,Garden/Park,Mumbai
+2,others,0.54,1050.0,5,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,0.62,1436.0,2,Semi-Furnished,South -West,not sure,2,3,Main Road,Hydrabad
+2,others,0.85,1200.0,10+,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+3,Bagaluru,1.5,1408.0,7,Unfurnished,East,available,3,3,Main Road,Bangalore
+1,Bhandup,0.89,425.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,Thiruvanmiyur,1.1,1125.0,1,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",chennai
+2,Bandra,3.7,793.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Sholinganallur,1.25,1627.0,1,Semi-Furnished,East,available,3,2,Garden/Park,chennai
+1,Ambattur,0.24,487.0,1,Semi-Furnished,West,not sure,1,1,"Main Road, Pool",chennai
+4+,others,10.5,2800.0,10+,Semi-Furnished,North - East,not sure,4+,1,"Garden/Park, Main Road",Mumbai
+2,others,0.778,1180.0,4,Semi-Furnished,East,available,2,3,"Garden/Park, Pool",Bangalore
+3,others,1.9,1850.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road, Pool",Hydrabad
+1,others,0.5479999999999999,876.0,4,Unfurnished,East,available,1,1,Main Road,Hydrabad
+2,Sector 43,1.3,1115.0,5,Semi-Furnished,North,available,2,1,Main Road,Gurgaon
+3,others,6.75,1450.0,10+,Unfurnished,East,not sure,3,2,"Garden/Park, Pool",Mumbai
+2,others,0.7000000000000001,1250.0,2,Semi-Furnished,North - East,available,2,1,Main Road,Hydrabad
+3,Medavakkam,0.77,1430.0,1,Semi-Furnished,West,not sure,3,1,Garden/Park,chennai
+4,others,6.67,2899.0,10+,Unfurnished,West,available,2,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.99,1240.0,1,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+2,Whitefield,0.86,1089.0,5,Unfurnished,East,not sure,2,1,"Garden/Park, Pool",Bangalore
+2,others,0.7000000000000001,1350.0,1,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,7.88,2678.0,10+,Unfurnished,North,available,3,2,Pool,Bangalore
+3,others,2.65,2298.0,3,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",chennai
+1,others,1.2,403.0,9,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,Hebbal,0.936,1101.0,7,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.51,1014.0,1,Unfurnished,South -West,available,2,2,Garden/Park,chennai
+4,others,6.07,4500.0,6,Unfurnished,East,available,4+,2,Garden/Park,Hydrabad
+2,others,1.84,1093.0,10+,Unfurnished,East,available,2,2,Main Road,Gurgaon
+3,others,0.9,1443.0,2,Semi-Furnished,West,available,3,4+,"Garden/Park, Main Road",chennai
+4,Chanda Nagar,1.97,3080.0,10+,Unfurnished,West,available,4,2,Garden/Park,Hydrabad
+3,others,2.75,3700.0,10+,Semi-Furnished,East,available,3,2,Garden/Park,chennai
+2,others,0.4,750.0,7,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,0.71,1420.0,4,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+2,others,0.6,1082.0,2,Semi-Furnished,North,available,2,1,Main Road,chennai
+2,Virar,0.47,700.0,3,Unfurnished,North - East,not sure,2,1,Main Road,Mumbai
+2,others,1.9,1000.0,4,Furnished,South,not sure,2,1,Main Road,Mumbai
+3,others,1.5,2500.0,1,Furnished,East,not sure,4,3,Pool,chennai
+3,Sholinganallur,1.2,1494.0,6,Unfurnished,North,not sure,3,1,"Garden/Park, Main Road, Pool",chennai
+3,others,0.7140000000000001,1015.0,5,Semi-Furnished,North,available,2,1,Garden/Park,chennai
+4,Sector 37D,5.45,3658.0,3,Semi-Furnished,East,available,4,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.7000000000000001,1250.0,5,Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.7000000000000001,647.0,3,Unfurnished,North,not sure,2,4+,Garden/Park,chennai
+3,others,2.6,2259.0,4,Semi-Furnished,North,available,2,4,Garden/Park,Gurgaon
+3,Sector 37D,3.11,2400.0,6,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
+2,others,0.7000000000000001,1240.0,4,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,Sector 89,2.1,1550.0,2,Semi-Furnished,North,available,3,3,Main Road,Gurgaon
+3,others,1.6,1425.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Mulund,1.79,1145.0,10+,Unfurnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Mulund,1.65,700.0,6,Unfurnished,East,available,2,1,Main Road,Mumbai
+4,Banjara Hills,6.5,4329.0,0,Unfurnished,East,not sure,4+,2,Main Road,Hydrabad
+3,others,1.52,1937.0,10,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Bangalore
+3,Sector 57,1.7,1980.0,1,Unfurnished,South -West,available,2,3,Garden/Park,Gurgaon
+2,Medavakkam,0.75,890.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Wadala,2.8,1000.0,9,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,1.55,897.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Wadala,4.35,1115.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+2,others,4.23,1250.0,1,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,Manapakkam,0.95,1600.0,1,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+3,Ambattur,1.5,1846.0,5,Semi-Furnished,East,not sure,3,2,Main Road,chennai
+4,Sector 43,6.25,270.0,4,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,Narsingi,1.48,1905.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+2,others,1.2,930.0,1,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+3,others,3.6,2368.0,10+,Semi-Furnished,South,available,4,4,Main Road,Gurgaon
+2,HSR Layout,1.13,1284.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+3,others,1.9,2024.0,4,Semi-Furnished,West,not sure,3,2,Main Road,chennai
+3,others,0.445,1049.0,2,Semi-Furnished,North,not sure,3,3,"Garden/Park, Main Road",chennai
+3,others,2.18,1611.0,3,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,7.5,1550.0,10+,Unfurnished,East,not sure,4,4,Main Road,Mumbai
+3,Mulund,2.78,1175.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+4,Sector 102,3.0,1478.0,8,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,others,6.2,4100.0,10+,Semi-Furnished,West,available,4,2,"Garden/Park, Pool",Bangalore
+2,Avadi,0.44,870.0,2,Unfurnished,East,available,2,1,Main Road,chennai
+2,Whitefield,1.03,1462.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+3,others,0.8,1748.0,0,Furnished,East,available,3,1,"Garden/Park, Pool",Hydrabad
+2,Chembur,1.5,631.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,2.06,1720.0,10+,Unfurnished,East,not sure,3,2,Garden/Park,Hydrabad
+2,others,0.97,1172.0,9,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Mumbai
+3,Kollur,1.45,2417.0,9,Unfurnished,West,available,3,2,Main Road,Hydrabad
+3,Kondapur,1.75,1955.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,2.3,1878.0,6,Unfurnished,North,available,3,1,Garden/Park,chennai
+2,others,0.55,911.0,3,Unfurnished,West,not sure,2,1,Main Road,Bangalore
+3,others,1.0,1500.0,2,Furnished,West,not sure,2,2,Main Road,Hydrabad
+2,Kandivali,1.85,653.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,3.4,2138.0,2,Unfurnished,North,available,3,2,Main Road,chennai
+2,others,0.85,1130.0,1,Unfurnished,East,available,3,2,Main Road,Gurgaon
+3,Banjara Hills,1.8,1600.0,1,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,Andheri,2.51,975.0,1,Furnished,East,available,2,2,Main Road,Mumbai
+3,others,2.8,2200.0,2,Unfurnished,East,available,3,1,Garden/Park,Bangalore
+2,Kilpauk,1.5,1175.0,0,Unfurnished,North,available,2,4+,"Garden/Park, Main Road",chennai
+2,Vile Parle,2.0,800.0,1,Furnished,South - East,not sure,2,3,Main Road,Mumbai
+3,others,0.7,1390.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,1.8,1280.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.86,744.0,3,Unfurnished,South,available,2,1,Garden/Park,chennai
+2,Sarjapur Road,1.36,1345.0,10+,Unfurnished,East,available,2,1,Garden/Park,Bangalore
+2,Sarjapur Road,1.32,1300.0,8,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+3,others,1.1,1449.0,2,Unfurnished,West,not sure,3,2,Garden/Park,Bangalore
+2,others,2.8,1740.0,8,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+1,Ghatkopar,0.65,365.0,1,Unfurnished,East,not sure,1,2,Main Road,Mumbai
+3,others,1.4,1600.0,4,Unfurnished,North,not sure,3,3,Main Road,Hydrabad
+3,Sector 49,4.29,2293.0,10+,Semi-Furnished,North,available,3,3,Main Road,Gurgaon
+4+,others,1.75,1200.0,2,Semi-Furnished,East,not sure,4+,4+,Main Road,chennai
+1,Bhandup,1.25,762.0,4,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+3,Outer Ring Road,1.52,2035.0,4,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+4,others,2.2,2802.0,10,Unfurnished,East,available,4,2,Main Road,Bangalore
+3,Sector 79,1.75,1525.0,3,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,others,0.35,800.0,0,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Whitefield,1.59,1405.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,others,1.51,2019.0,10+,Unfurnished,North,available,3,1,"Main Road, Pool",Bangalore
+4,Sector 63,7.5,3950.0,10+,Unfurnished,North - East,available,4,3,"Garden/Park, Pool",Gurgaon
+3,others,6.48,1750.0,10,Unfurnished,East,not sure,4,1,Garden/Park,Mumbai
+2,Andheri,1.75,440.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+4,Kokapet,4.1,3536.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Main Road, Pool",Hydrabad
+3,Padur,0.45,1050.0,2,Semi-Furnished,West,not sure,2,3,Main Road,chennai
+2,Kandivali,1.5,930.0,6,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+1,others,0.2,275.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,Sector 36,1.15,1386.2,4,Unfurnished,East,available,2,3,Main Road,Gurgaon
+2,others,0.65,700.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,7.99,1307.0,10+,Unfurnished,East,available,4,1,"Garden/Park, Main Road, Pool",Mumbai
+4,others,6.0,586.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Gurgaon
+1,Malad,0.8200000000000001,485.0,9,Semi-Furnished,North - East,available,1,1,"Garden/Park, Main Road",Mumbai
+2,Borivali,1.9,770.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+1,Malad,0.75,525.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Padur,0.56,918.0,10+,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.54,945.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,Kollur,0.853,1896.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,0.52,1190.0,3,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+1,others,0.31,524.0,1,Unfurnished,South,not sure,1,1,Main Road,chennai
+2,others,0.451,1013.0,1,Unfurnished,North,available,2,1,Main Road,chennai
+3,Pallikaranai,0.75,1225.0,0,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+2,HSR Layout,1.07,1294.0,2,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+1,others,0.4,450.0,5,Semi-Furnished,North - East,available,4,4,"Garden/Park, Main Road",Gurgaon
+3,others,2.4,2200.0,2,Semi-Furnished,North,not sure,3,2,"Garden/Park, Main Road",Bangalore
+2,others,0.55,1120.0,5,Semi-Furnished,South,not sure,2,2,Main Road,Hydrabad
+2,others,3.1,1008.0,2,Furnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.493,986.0,1,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road",chennai
+2,Kandivali,2.06,896.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.85,1960.0,10,Semi-Furnished,East,not sure,3,3,Main Road,Hydrabad
+3,others,1.27,1475.0,10+,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Bangalore
+2,others,0.93,958.0,3,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",chennai
+2,Mulund,1.6,825.0,2,Unfurnished,North - East,available,2,1,Main Road,Mumbai
+3,others,5.6,3725.0,6,Semi-Furnished,North,available,4,3,"Garden/Park, Pool",Gurgaon
+3,Sector 57,2.25,2367.0,3,Semi-Furnished,North - East,available,3,2,Main Road,Gurgaon
+2,others,0.8,1380.0,5,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,Krishnarajapura,0.5,1200.0,2,Furnished,East,available,2,2,Main Road,Bangalore
+1,others,1.04,700.0,6,Unfurnished,East,available,1,1,Main Road,Mumbai
+3,others,0.6779999999999999,1255.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+1,others,0.2,475.0,0,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+2,others,1.0,1300.0,10+,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Andheri,3.9,2000.0,3,Furnished,South,available,3,1,Garden/Park,Mumbai
+3,others,1.25,1930.0,1,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+4,others,2.8,3357.0,2,Semi-Furnished,East,available,4+,2,Main Road,Gurgaon
+2,others,0.74,875.0,2,Unfurnished,North,not sure,2,1,Main Road,chennai
+2,Perumbakkam,0.61,901.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+3,NH 9,1.75,2300.0,2,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,0.845,1325.0,2,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+3,Sector 71,1.44,1743.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Gurgaon
+2,others,1.2,1309.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Kandivali,2.27,760.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+1,others,0.85,300.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,2.5,2160.0,2,Semi-Furnished,North - East,available,2,2,"Garden/Park, Main Road",Gurgaon
+3,Thanisandra Main Road,2.5,1864.0,5,Unfurnished,North - West,not sure,3,2,Main Road,Bangalore
+3,Sector 43,2.25,3000.0,1,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,Ambattur,0.52,795.0,1,Furnished,North,available,2,4+,Main Road,chennai
+4,Santacruz,15.5,3800.0,10,Unfurnished,North - West,available,4+,4,Main Road,Mumbai
+3,Sector 89,1.4,1300.0,2,Unfurnished,East,available,3,1,Main Road,Gurgaon
+1,others,0.39,575.0,2,Semi-Furnished,South,available,1,4+,Main Road,chennai
+2,others,0.66,600.0,3,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.5670000000000001,1170.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,Yelahanka,1.12,1528.0,4,Unfurnished,North,available,3,3,Main Road,Bangalore
+2,others,3.49,1000.0,3,Unfurnished,North,not sure,2,1,Garden/Park,Mumbai
+2,Powai,2.44,1100.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.44,883.0,7,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.45,650.0,2,Unfurnished,North,not sure,2,1,Garden/Park,chennai
+2,Yelahanka,0.78,988.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,Sector 2,0.7000000000000001,1383.0,4,Unfurnished,South - East,available,2,4,"Garden/Park, Main Road, Pool",Gurgaon
+3,Nizampet,1.35,1800.0,4,Unfurnished,East,not sure,3,1,Garden/Park,Hydrabad
+2,others,2.3,750.0,4,Unfurnished,North - West,available,2,1,Garden/Park,Mumbai
+4,Kondapur,3.31,3540.0,10+,Unfurnished,East,available,4,2,Garden/Park,Hydrabad
+2,others,0.5,940.0,2,Semi-Furnished,West,available,2,1,Main Road,Bangalore
+4,Sector 113,6.21,6565.0,10+,Semi-Furnished,North - East,available,4,4+,"Garden/Park, Main Road",Gurgaon
+1,others,0.27,504.0,0,Unfurnished,North - East,not sure,1,4+,Main Road,chennai
+1,others,0.96,620.0,5,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+2,others,0.62,883.0,10,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+1,others,1.65,415.0,10+,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.3,1586.0,1,Unfurnished,East,not sure,3,3,Main Road,Hydrabad
+3,Sector 92,2.1,2120.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road",Gurgaon
+3,others,0.85,1560.0,3,Semi-Furnished,East,available,2,4,Main Road,Bangalore
+3,Miyapur,0.79,1725.0,10,Unfurnished,East,not sure,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.64,1123.0,2,Unfurnished,North,not sure,2,1,Main Road,chennai
+3,Sector 51,1.7,1310.0,2,Semi-Furnished,East,available,2,4,Main Road,Gurgaon
+3,others,2.0,2100.0,7,Semi-Furnished,East,available,4,1,Main Road,Hydrabad
+3,others,2.15,1630.0,10+,Unfurnished,South -West,not sure,3,1,Garden/Park,Bangalore
+2,others,0.37,830.0,0,Furnished,East,not sure,2,4+,Main Road,chennai
+3,Kollur,0.9,1600.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Hydrabad
+3,Kondapur,1.45,1650.0,10+,Unfurnished,East,not sure,2,1,Pool,Hydrabad
+3,Sector 57,1.0,1386.8,10+,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
+2,others,0.49,1200.0,2,Semi-Furnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+3,Thoraipakkam,1.1,1386.0,1,Semi-Furnished,East,available,3,4+,Main Road,chennai
+2,others,0.62,1050.0,5,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,1.45,1350.0,4,Furnished,East,not sure,3,2,Garden/Park,Bangalore
+2,others,0.38,740.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+4,Whitefield,3.1,2230.0,10+,Semi-Furnished,East,available,4,2,Garden/Park,Bangalore
+1,others,0.75,366.0,1,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.1,1399.0,1,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,1.8,1789.0,4,Semi-Furnished,North,available,3,3,"Garden/Park, Pool",Gurgaon
+2,others,0.53,750.0,1,Unfurnished,South,available,2,1,Main Road,chennai
+2,others,0.68,1000.0,7,Unfurnished,East,available,2,1,Garden/Park,Gurgaon
+3,others,1.85,1877.0,10+,Unfurnished,North,available,3,3,Main Road,Gurgaon
+3,others,1.1,2000.0,2,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,1.74,2175.0,10+,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+3,others,0.65,1370.0,4,Semi-Furnished,East,available,3,1,Main Road,Hydrabad
+3,others,1.5,1430.0,1,Unfurnished,East,not sure,3,1,Main Road,chennai
+3,others,3.6,985.0,7,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,others,9.0,1700.0,6,Furnished,East,available,3,3,"Garden/Park, Main Road",Mumbai
+3,Kanjurmarg,2.95,1550.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,Powai,2.45,1150.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,others,2.64,2270.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,1.35,1400.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,Sector 106,0.95,1800.0,1,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,Mulund,2.05,940.0,10+,Furnished,East,available,2,1,Main Road,Mumbai
+3,Sector 24,1.12,1935.0,1,Semi-Furnished,West,available,3,3,Garden/Park,Gurgaon
+2,others,1.02,1098.0,9,Unfurnished,North,not sure,2,1,Garden/Park,Bangalore
+2,others,1.36,1100.0,2,Unfurnished,South,available,2,3,Garden/Park,chennai
+3,Anna Nagar,1.48,1291.0,3,Semi-Furnished,East,not sure,3,4,"Garden/Park, Main Road",chennai
+1,others,1.1,707.0,10+,Unfurnished,West,not sure,2,1,Main Road,Mumbai
+1,others,0.48,527.0,10,Unfurnished,East,not sure,2,3,Main Road,Mumbai
+2,others,0.51,796.0,3,Semi-Furnished,East,not sure,2,2,Main Road,chennai
+2,others,0.31,810.0,4,Semi-Furnished,North,not sure,2,2,Main Road,Bangalore
+4+,others,1.3,4866.0,10+,Semi-Furnished,East,not sure,4+,1,Main Road,Bangalore
+3,others,5.85,1431.0,10+,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+2,Kelambakkam,0.24,636.0,2,Semi-Furnished,North,available,2,2,Main Road,chennai
+2,others,0.5,1050.0,2,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,1.8,2010.0,2,Unfurnished,North,available,3,2,Main Road,Bangalore
+2,Malad,2.11,1049.0,4,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+1,others,0.6,550.0,6,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+1,others,2.1,1290.0,3,Unfurnished,East,not sure,2,3,Garden/Park,Bangalore
+2,Sector 2,1.49,650.0,2,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,others,2.5,1200.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+3,Sector 79,1.45,1930.0,9,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+1,Padur,0.37,837.0,9,Furnished,East,available,1,4+,Main Road,chennai
+3,Bandra,3.31,1398.0,10+,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,Nizampet,1.43,1961.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+1,Borivali,0.66,400.0,3,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,Bandra,5.5,1320.0,3,Semi-Furnished,North - East,available,3,1,Main Road,Mumbai
+2,Vile Parle,2.6,1110.0,2,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,others,3.5,1000.0,3,Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Virar,0.5,527.0,3,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Mumbai
+2,others,0.65,1100.0,2,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,1.9,1650.0,5,Unfurnished,North,available,3,3,Main Road,Bangalore
+2,Madipakkam,0.68,1050.0,2,Semi-Furnished,North - East,available,2,3,Main Road,chennai
+3,Uppal,1.32,2065.0,4,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,1.7,1540.0,1,Furnished,East,available,3,1,"Garden/Park, Main Road, Pool",chennai
+2,others,0.62,1160.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Goregaon,1.05,1080.0,0,Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.8,1434.0,10,Unfurnished,North,available,2,1,Garden/Park,Bangalore
+4,others,1.5,1240.0,4,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+1,others,0.298,486.0,0,Semi-Furnished,North,not sure,1,4+,Main Road,chennai
+3,Wadala,4.0,1200.0,4,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Mumbai
+1,Mulund,1.16,560.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Kelambakkam,0.5,1157.0,1,Furnished,East,not sure,3,4+,Main Road,chennai
+2,Gunjur,1.3,1350.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Guduvancheri,0.376,815.0,2,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",chennai
+2,others,0.75,1000.0,1,Semi-Furnished,East,not sure,3,2,Main Road,chennai
+2,others,0.98,1005.0,1,Unfurnished,West,not sure,2,1,Garden/Park,Bangalore
+3,NH 9,1.71,1566.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,Pragathi Nagar,0.78,1560.0,1,Furnished,North,available,3,2,Main Road,Hydrabad
+2,others,0.7000000000000001,1050.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Gunjur,1.26,1344.0,5,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+3,others,0.6,1125.0,4,Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.65,800.0,2,Furnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.5,1050.0,10+,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,2.75,850.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.45,850.0,2,Semi-Furnished,East,not sure,2,2,Main Road,chennai
+3,others,1.25,1710.0,5,Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,0.9,1164.0,2,Unfurnished,North,not sure,2,4+,"Garden/Park, Main Road",chennai
+2,others,0.48,850.0,2,Unfurnished,South,not sure,2,1,Main Road,chennai
+2,others,0.487,1100.0,10+,Unfurnished,East,not sure,2,4+,Main Road,chennai
+4,others,2.99,3780.0,1,Furnished,East,available,4,2,Main Road,Gurgaon
+4+,others,4.5,3420.0,2,Semi-Furnished,North,available,4,4+,Garden/Park,Bangalore
+3,others,2.0,1950.0,8,Semi-Furnished,East,available,4+,3,Main Road,Gurgaon
+4,Borivali,5.98,1850.0,10+,Unfurnished,East,not sure,4,1,Garden/Park,Mumbai
+2,Sector 85,1.15,1690.0,2,Semi-Furnished,East,available,2,2,"Garden/Park, Pool",Gurgaon
+3,others,0.65,1295.0,1,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+3,others,0.99,1850.0,2,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,JP Nagar,1.15,1487.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,NH 9,1.36,1858.0,5,Unfurnished,East,available,3,2,"Garden/Park, Pool",Hydrabad
+2,HSR Layout,1.13,1205.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+4,others,3.15,2900.0,10+,Semi-Furnished,North - West,available,4,4,Main Road,Gurgaon
+2,others,0.58,1069.0,2,Unfurnished,North - East,not sure,2,2,Main Road,Hydrabad
+2,others,0.59,1000.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+1,Perumbakkam,0.42,620.0,3,Semi-Furnished,North,available,1,4+,"Garden/Park, Main Road, Pool",chennai
+3,others,1.35,1711.0,4,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+2,Kanjurmarg,1.25,750.0,10+,Unfurnished,West,not sure,2,1,Garden/Park,Mumbai
+2,Kompally,0.486,1156.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,1.14,1434.0,2,Unfurnished,North,available,3,1,"Garden/Park, Main Road, Pool",chennai
+2,others,0.3,750.0,3,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.57,1206.0,10+,Unfurnished,East,not sure,2,3,Main Road,Bangalore
+2,Sarjapura,0.718,1105.0,10+,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.5,875.0,1,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.65,1000.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.68,850.0,3,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+4,others,1.3,1979.0,2,Unfurnished,East,not sure,3,1,Garden/Park,chennai
+4,others,2.7,2500.0,3,Semi-Furnished,North,available,4,2,"Garden/Park, Main Road",Gurgaon
+4,others,3.65,2700.0,2,Furnished,East,available,4,3,Main Road,Gurgaon
+2,Thanisandra Main Road,1.12,1192.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Sector 89,2.15,1145.0,10+,Unfurnished,East,available,2,2,Main Road,Gurgaon
+2,Thoraipakkam,0.75,981.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,2.35,1200.0,6,Furnished,North,not sure,2,1,Main Road,Mumbai
+2,Ambattur,0.605,849.0,2,Unfurnished,East,available,2,4+,Main Road,chennai
+1,Medavakkam,0.377,681.0,1,Unfurnished,East,not sure,1,1,Main Road,chennai
+3,others,2.32,2300.0,3,Furnished,North - West,available,3,3,Main Road,Bangalore
+2,others,0.67,1007.0,10+,Unfurnished,North,not sure,2,1,Garden/Park,chennai
+2,others,0.75,1200.0,1,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,1.9,1950.0,8,Semi-Furnished,North - East,available,3,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.418,1051.0,7,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+3,Sector 37D,1.4,1725.0,10+,Unfurnished,East,available,3,4,"Garden/Park, Pool",Gurgaon
+3,Sector 85,3.0,1850.0,10+,Unfurnished,East,available,3,1,Main Road,Gurgaon
+2,others,3.89,1691.0,1,Unfurnished,East,available,2,2,"Garden/Park, Pool",Gurgaon
+3,Powai,5.05,1104.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+3,others,0.6,1355.0,4,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.5,800.0,10,Unfurnished,North,available,2,1,"Garden/Park, Main Road",Gurgaon
+2,others,1.25,1080.0,5,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.45,1000.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.75,850.0,1,Semi-Furnished,East,available,2,4+,Main Road,chennai
+4,Gunjur,3.2,2333.0,5,Unfurnished,East,available,4,2,"Garden/Park, Pool",Bangalore
+3,Sector 57,2.0,2070.0,2,Semi-Furnished,North - East,available,3,2,Main Road,Gurgaon
+2,others,1.5,1250.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.67,888.0,1,Unfurnished,North,available,2,1,Main Road,Bangalore
+2,Guduvancheri,0.4,1020.0,2,Unfurnished,East,not sure,2,3,Main Road,chennai
+2,others,3.56,1050.0,6,Unfurnished,South -West,not sure,2,1,Main Road,Mumbai
+2,others,1.1,1200.0,6,Unfurnished,East,not sure,2,1,Main Road,chennai
+3,Whitefield,0.989,1374.0,3,Unfurnished,East,available,2,1,Garden/Park,Bangalore
+3,others,1.0,1425.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.53,1134.0,1,Unfurnished,North,available,2,1,"Garden/Park, Main Road",chennai
+1,Mira Road,0.628,775.0,5,Semi-Furnished,North - East,available,2,3,"Garden/Park, Main Road",Mumbai
+3,others,1.75,1650.0,1,Semi-Furnished,East,available,3,3,Main Road,Hydrabad
+3,others,1.2,1700.0,2,Semi-Furnished,East,available,3,3,Main Road,Hydrabad
+2,others,0.36,712.0,1,Furnished,East,not sure,2,1,Main Road,chennai
+2,others,0.7,1100.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+1,others,0.06,200.0,1,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,Hennur Main Road,0.85,995.0,5,Semi-Furnished,East,available,2,2,Garden/Park,Bangalore
+3,others,0.6,1100.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,Sector 24,2.5,1450.0,9,Semi-Furnished,North - East,available,3,3,Garden/Park,Gurgaon
+2,others,0.9,1010.0,6,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,Malad,0.9,461.0,5,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+4,others,11.0,2325.0,10+,Semi-Furnished,West,not sure,4+,1,Main Road,Mumbai
+3,others,1.6,1350.0,3,Furnished,East,available,3,1,Main Road,Gurgaon
+3,Sector 92,1.2,1628.0,4,Unfurnished,North,available,4,1,Main Road,Gurgaon
+3,Kondapur,1.76,1663.0,10+,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Sector 37D,2.0,1500.0,8,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,others,1.92,1442.0,4,Semi-Furnished,East,available,1,2,Main Road,Gurgaon
+2,others,0.65,1163.0,10+,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+3,others,7.0,1595.0,8,Furnished,North - East,available,3,1,"Garden/Park, Main Road",Mumbai
+4,others,2.9,1565.0,9,Semi-Furnished,West,available,2,3,Garden/Park,Gurgaon
+4,Sector 63,8.25,3950.0,10+,Semi-Furnished,East,available,4,3,Garden/Park,Gurgaon
+2,Pallikaranai,0.45,850.0,1,Unfurnished,South,not sure,2,1,Main Road,chennai
+3,others,1.8,1991.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,others,2.5,1200.0,3,Semi-Furnished,East,not sure,4,2,Main Road,Mumbai
+2,Borivali,2.2,820.0,3,Furnished,East,not sure,2,1,Main Road,Mumbai
+2,Kolathur,0.439,810.0,1,Semi-Furnished,East,available,2,1,Main Road,chennai
+3,Kollur,1.3,1894.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+4,Sector 14,3.5,2400.0,2,Semi-Furnished,East,available,4,3,"Garden/Park, Main Road",Gurgaon
+3,others,0.49,1470.0,4,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.92,720.0,2,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.45,1000.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+4,Sector 63,9.0,3956.0,10+,Semi-Furnished,East,available,4+,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.75,1030.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,3.01,670.0,5,Unfurnished,East,not sure,2,1,Garden/Park,Mumbai
+2,others,0.29,556.0,1,Unfurnished,East,not sure,1,1,Main Road,chennai
+3,others,1.29,1440.0,1,Unfurnished,East,available,3,2,Main Road,Bangalore
+3,Sector 79,2.35,1230.0,1,Unfurnished,East,available,3,1,Main Road,Gurgaon
+3,others,1.3,1458.0,7,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+2,others,0.55,80.0,1,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.44,1298.8,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+2,others,2.35,1105.0,10+,Furnished,West,not sure,2,3,"Garden/Park, Main Road, Pool",Mumbai
+3,Sector 79,3.4,2260.0,4,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+2,others,0.45,1150.0,0,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Bhandup,1.35,630.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,others,1.9,2169.0,2,Semi-Furnished,West,available,3,2,Garden/Park,Gurgaon
+4+,others,2.1,4000.0,10+,Semi-Furnished,South - East,not sure,4+,4+,Main Road,Bangalore
+2,others,0.648,900.0,3,Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,4.2,2900.0,2,Semi-Furnished,North,available,4,2,Garden/Park,Bangalore
+2,Anna Nagar,0.7000000000000001,920.0,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,others,0.9,640.0,10+,Semi-Furnished,North,available,2,1,Garden/Park,Gurgaon
+3,others,0.935,1700.0,2,Unfurnished,North,not sure,3,3,Main Road,Hydrabad
+3,others,6.3,2772.0,10+,Furnished,South -West,available,4,3,Garden/Park,Gurgaon
+2,others,0.55,900.0,1,Semi-Furnished,North,not sure,2,4+,Main Road,chennai
+3,Sector 49,4.33,1993.0,4,Unfurnished,North,available,2,1,Garden/Park,Gurgaon
+4,others,3.15,2400.0,2,Semi-Furnished,North - East,available,4,2,Main Road,Gurgaon
+3,Whitefield,1.65,1708.0,3,Semi-Furnished,East,available,3,1,Main Road,Bangalore
+3,others,0.72,1276.0,0,Unfurnished,East,not sure,3,4+,"Garden/Park, Main Road",chennai
+3,others,1.05,1290.0,1,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+1,others,0.281,446.0,10+,Unfurnished,East,available,1,4+,Main Road,chennai
+2,Wadala,1.7,606.0,7,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+4,Bandra,3.92,1145.0,10+,Unfurnished,East,not sure,3,2,Main Road,Mumbai
+4+,others,9.5,10000.0,10+,Unfurnished,North - East,available,4+,4+,Main Road,Bangalore
+3,others,4.3,2124.0,10+,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+3,Sector 57,2.25,2200.0,2,Semi-Furnished,South - East,available,3,3,Main Road,Gurgaon
+3,Goregaon,3.4,1524.0,10+,Semi-Furnished,North - East,available,3,4,"Garden/Park, Main Road, Pool",Mumbai
+3,others,9.99,1600.0,10+,Unfurnished,East,available,4,1,Main Road,Mumbai
+1,Wadala,1.25,340.0,10+,Semi-Furnished,East,available,1,1,Garden/Park,Mumbai
+3,others,1.4,1712.0,5,Semi-Furnished,South -West,available,3,4+,"Garden/Park, Main Road, Pool",Gurgaon
+3,NH 9,2.4,2595.0,5,Furnished,East,not sure,4,3,"Garden/Park, Main Road",Hydrabad
+2,Sector 106,2.1,1366.0,10+,Unfurnished,East,available,2,4,Main Road,Gurgaon
+2,others,1.5,950.0,2,Semi-Furnished,East,not sure,2,2,Main Road,Mumbai
+3,others,1.25,1615.0,2,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Bangalore
+1,others,0.75,557.0,10,Unfurnished,East,not sure,1,3,Main Road,Mumbai
+3,others,1.75,1767.0,3,Semi-Furnished,West,available,3,3,Main Road,Bangalore
+1,others,0.25,505.0,2,Unfurnished,East,not sure,1,4+,Main Road,chennai
+2,others,1.05,1079.0,2,Unfurnished,East,not sure,2,2,Main Road,chennai
+2,Goregaon,0.73,825.0,10+,Unfurnished,East,not sure,2,1,Garden/Park,Mumbai
+2,Manapakkam,1.2,1243.0,5,Unfurnished,East,not sure,2,1,Pool,chennai
+2,others,1.5,600.0,1,Unfurnished,East,available,2,1,Main Road,Gurgaon
+4+,Kollur,4.5,10000.0,10+,Semi-Furnished,East,not sure,4+,4+,Main Road,Hydrabad
+2,Perambur,1.65,1390.0,10+,Unfurnished,East,available,2,4+,Garden/Park,chennai
+2,others,0.61,720.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+4,Sector 26,6.75,4518.0,1,Semi-Furnished,North - East,available,4+,2,Main Road,Gurgaon
+4+,Sector 65,25.0,10000.0,10+,Unfurnished,North,available,4+,4+,"Garden/Park, Pool",Gurgaon
+2,others,0.68,1220.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,1.0,870.0,3,Furnished,North,not sure,2,1,Main Road,chennai
+2,others,1.2,1080.0,3,Unfurnished,South - East,not sure,2,2,Main Road,Bangalore
+3,Sector 85,2.5,1825.0,10+,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,Whitefield,1.97,1682.0,7,Unfurnished,East,available,3,2,Main Road,Bangalore
+3,Uppal,1.76,2279.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,others,4.5,750.0,2,Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,2.85,1804.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Bangalore
+3,Pragathi Nagar,1.1,1700.0,3,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.33,970.0,10+,Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Borivali,2.45,1400.0,5,Unfurnished,East,available,3,1,Main Road,Mumbai
+4,Sector 2,10.2,1442.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+1,others,0.7000000000000001,1598.0,1,Unfurnished,East,available,1,1,Main Road,Gurgaon
+3,others,0.53,1326.0,3,Semi-Furnished,North,available,2,2,Main Road,Gurgaon
+3,Powai,3.75,1300.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+4,others,3.6,3205.0,9,Semi-Furnished,North - East,available,4+,1,Main Road,Bangalore
+1,Malad,1.25,780.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Ghatkopar,3.25,929.0,10+,Unfurnished,North - West,available,3,1,Main Road,Mumbai
+2,others,0.6,762.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,1.55,1050.0,9,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+2,others,0.65,596.0,2,Unfurnished,East,not sure,2,1,Main Road,chennai
+4,Sector 102,3.25,2162.0,10+,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+4+,others,11.65,4500.0,8,Furnished,East,available,4+,4,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sarjapura,1.11,1239.0,10,Unfurnished,East,available,2,1,Garden/Park,Bangalore
+3,Bandra,5.74,996.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+3,others,0.67,1267.0,2,Semi-Furnished,East,available,3,4+,"Garden/Park, Main Road, Pool",chennai
+3,others,1.89,1793.0,10+,Unfurnished,West,not sure,3,1,Garden/Park,Hydrabad
+3,Narsingi,1.94,2520.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,0.5710000000000001,1465.0,5,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Sector 36,0.95,610.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,Sector 102,2.5,1600.0,2,Furnished,East,available,3,3,Main Road,Gurgaon
+4+,Mulund,6.5,2830.0,6,Unfurnished,North - West,not sure,4+,4+,Garden/Park,Mumbai
+4,Sector 63,8.0,4500.0,10+,Unfurnished,East,available,4,2,Main Road,Gurgaon
+2,others,4.1,1247.0,1,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.25,2005.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+4+,Sector 25,9.25,6120.0,1,Semi-Furnished,South,available,4+,3,Main Road,Gurgaon
+3,others,0.8,1420.0,10+,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.55,1000.0,1,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+3,Narsingi,2.2,2020.0,10+,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4,Sector 63,7.96,3950.0,6,Semi-Furnished,East,available,4,4,Main Road,Gurgaon
+2,others,1.1,1130.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.68,1111.0,3,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,1.91,1504.0,4,Unfurnished,North,available,3,2,Garden/Park,Bangalore
+2,Gunjur,1.3,1181.0,8,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+3,Porur,0.98,1250.0,1,Semi-Furnished,East,not sure,3,1,Main Road,chennai
+3,others,0.56,1604.0,2,Semi-Furnished,North,not sure,3,2,Main Road,chennai
+3,others,2.1,2100.0,1,Unfurnished,West,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.45,700.0,2,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.95,1175.0,1,Semi-Furnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+2,Sector 89,1.25,1103.0,1,Semi-Furnished,East,available,2,4,Main Road,Gurgaon
+1,others,0.44,406.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.8,950.0,1,Semi-Furnished,West,not sure,2,1,Main Road,Bangalore
+2,Mogappair,0.8,950.0,4,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.72,1211.0,2,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.32,625.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,others,0.335,656.0,2,Unfurnished,South,not sure,2,1,Main Road,chennai
+1,others,0.6,487.0,10+,Semi-Furnished,East,available,1,2,Main Road,Gurgaon
+2,others,0.68,1150.0,1,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,others,1.35,1650.0,2,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,HSR Layout,1.08,1295.0,1,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+4,others,1.62,1680.0,3,Unfurnished,East,not sure,4+,2,Main Road,Bangalore
+3,Sector 59,5.75,3106.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Pool",Gurgaon
+2,others,0.6709999999999999,1118.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,Mira Road,1.1,970.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.42,1000.0,4,Unfurnished,North - East,available,2,2,"Garden/Park, Main Road",Gurgaon
+1,others,0.45,527.0,6,Unfurnished,East,available,2,3,Garden/Park,Mumbai
+4,Mulund,3.35,1870.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,Mogappair,0.58,1050.0,4,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",chennai
+3,others,1.75,1600.0,1,Semi-Furnished,East,available,2,2,Garden/Park,Bangalore
+3,others,1.55,1700.0,1,Furnished,West,not sure,3,1,Garden/Park,Hydrabad
+2,others,1.55,562.0,10,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,2.5,2100.0,1,Furnished,East,not sure,3,3,"Garden/Park, Main Road",Bangalore
+2,Narsingi,1.36,1370.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,Medavakkam,0.74,1100.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,Sector 49,3.4,1807.0,10,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sector 65,6.3,3040.0,10+,Unfurnished,East,available,3,3,Main Road,Gurgaon
+2,Sector 61,1.6,1150.0,1,Unfurnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,0.6920000000000001,605.0,10+,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+1,others,2.5,600.0,1,Semi-Furnished,West,not sure,2,1,"Garden/Park, Main Road",Mumbai
+1,Virar,0.37,505.0,4,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+1,Chembur,0.66,620.0,4,Unfurnished,North - East,not sure,1,1,"Garden/Park, Main Road",Mumbai
+3,Sector 71,2.2,1676.0,1,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,Kanjurmarg,2.15,1100.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+1,Kandivali,0.7000000000000001,400.0,7,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.25,1785.0,10+,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road, Pool",chennai
+3,others,1.03,1480.0,10+,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.2,1093.0,2,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+2,Ghatkopar,1.76,637.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,others,0.67,550.0,0,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+2,others,1.6,1020.0,2,Furnished,East,available,2,2,Garden/Park,Bangalore
+3,Chembur,3.4,1821.0,7,Semi-Furnished,East,available,4,1,"Garden/Park, Main Road",Mumbai
+3,others,1.16,1418.0,10+,Unfurnished,East,not sure,3,4+,Main Road,chennai
+3,Sector 37D,1.75,2000.0,4,Semi-Furnished,North,available,2,4,Garden/Park,Gurgaon
+3,others,2.8,1498.0,8,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+4,others,0.5,1425.0,6,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,Outer Ring Road,0.5720000000000001,1100.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Miyapur,1.02,1510.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+3,Outer Ring Road,0.98,1750.0,3,Semi-Furnished,North,not sure,3,3,Main Road,Hydrabad
+3,Mulund,3.17,1529.0,5,Semi-Furnished,East,available,2,2,Main Road,Mumbai
+2,others,1.12,1168.0,10+,Semi-Furnished,North,not sure,2,1,"Garden/Park, Main Road",Bangalore
+2,Thanisandra,1.13,1190.0,10+,Unfurnished,East,available,2,2,Garden/Park,Bangalore
+3,Yelahanka,1.22,1579.0,4,Unfurnished,East,available,3,1,"Garden/Park, Pool",Bangalore
+2,Panathur,0.96,1202.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.72,1200.0,3,Unfurnished,East,not sure,3,4+,Main Road,chennai
+3,others,3.4,1650.0,5,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+4+,Sector 89,3.5,1530.0,7,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+2,others,1.55,1150.0,7,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+3,others,2.25,2003.0,1,Semi-Furnished,North - East,available,3,3,Pool,Gurgaon
+2,Thanisandra Main Road,1.26,1333.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,Bandlaguda Jagir,1.55,2095.0,10+,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,0.6,750.0,1,Semi-Furnished,South,available,2,4+,"Garden/Park, Main Road",chennai
+2,others,0.54,1071.0,2,Semi-Furnished,East,not sure,2,2,Garden/Park,chennai
+1,others,0.6,500.0,1,Unfurnished,East,available,1,1,Main Road,chennai
+2,others,0.65,1138.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+4+,others,5.0,5200.0,2,Unfurnished,East,available,4+,4+,Main Road,Gurgaon
+2,Chandapura,0.682,1105.0,2,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+2,Ambattur,0.6,967.0,2,Semi-Furnished,South,available,2,4+,Main Road,chennai
+3,Vile Parle,3.75,1300.0,3,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,others,0.99,1450.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,2.4,1000.0,10+,Furnished,East,available,2,1,Main Road,Mumbai
+3,Kompally,1.6,1820.0,6,Furnished,East,not sure,3,2,Garden/Park,Hydrabad
+3,Sector 111,3.95,2285.0,6,Unfurnished,East,available,4,3,"Garden/Park, Pool",Gurgaon
+3,others,1.22,513.0,3,Furnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,1.05,1559.0,7,Semi-Furnished,East,available,3,2,Main Road,chennai
+3,others,1.9,5370.0,1,Unfurnished,East,available,3,1,Main Road,Hydrabad
+2,Sector 79,1.18,1135.0,2,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+2,Santacruz,1.55,721.0,1,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+3,Sector 57,2.1,1357.0,3,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+4,Gachibowli,15.0,6666.0,10+,Unfurnished,East,not sure,4,1,Main Road,Hydrabad
+4,Sector 24,2.8,1777.0,5,Semi-Furnished,North - West,available,4,3,"Garden/Park, Main Road",Gurgaon
+3,others,3.4,1860.0,10+,Unfurnished,East,available,4,3,Garden/Park,Gurgaon
+2,Guduvancheri,0.32,800.0,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.55,1110.0,2,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,0.8109999999999999,1248.0,1,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",chennai
+3,Porur,1.85,1938.0,0,Semi-Furnished,East,not sure,3,2,"Garden/Park, Pool",chennai
+3,others,3.24,1445.0,1,Unfurnished,South,available,3,1,Main Road,chennai
+3,others,1.23,1432.0,8,Unfurnished,West,available,3,1,Main Road,Bangalore
+1,others,0.35,550.0,0,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.59,650.0,3,Semi-Furnished,North - West,available,2,1,Main Road,Gurgaon
+3,Outer Ring Road,0.73,1500.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+1,others,0.54,635.0,1,Semi-Furnished,East,not sure,1,1,Main Road,chennai
+3,Uppal,1.15,1740.0,6,Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.72,891.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Perambur,0.75,990.0,1,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",chennai
+4+,others,4.0,8400.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.65,1070.0,3,Unfurnished,East,available,2,1,Garden/Park,Hydrabad
+4+,Bandra,26.0,5000.0,10+,Unfurnished,East,available,4+,1,Pool,Mumbai
+2,Medavakkam,0.738,1172.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+3,others,0.93,1550.0,2,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,1.2,1700.0,2,Unfurnished,North - East,not sure,3,4,Main Road,Hydrabad
+3,Wadala,4.46,1115.0,10+,Semi-Furnished,East,available,2,2,Main Road,Mumbai
+4,others,2.6,1680.0,9,Furnished,East,available,4,3,"Garden/Park, Pool",Gurgaon
+2,others,0.52,1104.0,1,Semi-Furnished,East,not sure,2,4,"Garden/Park, Main Road",chennai
+3,others,2.3,1825.0,3,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+1,Mira Road,0.65,720.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.5,1328.0,10+,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,Thanisandra,1.35,1550.0,1,Unfurnished,East,not sure,2,3,Main Road,Bangalore
+3,Kilpauk,1.7,1450.0,3,Unfurnished,East,available,3,2,Garden/Park,chennai
+3,others,1.45,1650.0,1,Unfurnished,South,not sure,3,2,Main Road,chennai
+1,Medavakkam,0.35,561.0,3,Semi-Furnished,East,not sure,1,1,Garden/Park,chennai
+2,others,1.65,1200.0,10+,Semi-Furnished,North - East,available,4,1,Main Road,Bangalore
+2,others,0.491,1250.0,10+,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+2,others,0.87,1340.0,2,Furnished,East,not sure,2,3,Garden/Park,Bangalore
+2,others,2.74,1350.0,10+,Semi-Furnished,North - East,available,3,3,Main Road,Mumbai
+3,others,2.25,1950.0,10+,Semi-Furnished,East,available,4+,1,Main Road,Gurgaon
+3,others,7.8,1881.0,10+,Unfurnished,North,available,3,1,Main Road,Mumbai
+1,others,0.75,650.0,4,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+1,others,0.768,611.0,1,Unfurnished,North,not sure,1,1,Main Road,chennai
+3,Chromepet,0.75,1431.0,2,Furnished,East,not sure,3,2,Main Road,chennai
+3,others,0.55,1308.0,1,Unfurnished,East,not sure,3,1,Main Road,chennai
+4,others,2.76,2595.0,10+,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+1,Malad,0.547,252.0,10+,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.8,1200.0,2,Semi-Furnished,East,not sure,4+,3,Main Road,Bangalore
+3,Yelahanka,1.25,1575.0,10+,Furnished,East,not sure,3,1,Main Road,Bangalore
+2,Hebbal,1.2,1300.0,3,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,Madipakkam,0.55,825.0,1,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",chennai
+3,Wadala,3.9,1143.0,10+,Unfurnished,East,not sure,2,2,Main Road,Mumbai
+3,others,2.1,1545.0,8,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+3,Whitefield,1.1,1680.0,4,Furnished,East,available,3,3,"Garden/Park, Main Road, Pool",Bangalore
+2,Guduvancheri,0.26,600.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.975,1945.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,Wadala,3.5,1117.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Sarjapur Road,1.1,1250.0,10,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+3,others,1.49,1833.0,10+,Semi-Furnished,North - East,available,3,3,Garden/Park,Gurgaon
+3,others,2.98,1710.0,3,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,others,1.9,1568.0,1,Furnished,West,not sure,2,2,Main Road,Hydrabad
+4,others,1.84,2391.0,1,Unfurnished,East,available,4,3,Garden/Park,Gurgaon
+2,others,0.75,1268.0,4,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",chennai
+2,Nizampet,0.5,1000.0,4,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+2,Sholinganallur,0.848,1058.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+1,others,0.73,607.0,10+,Semi-Furnished,East,available,1,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Virar,0.7709999999999999,645.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+4,Sector 63,8.0,3956.0,10+,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,Pragathi Nagar,0.87,1520.0,4,Unfurnished,East,not sure,3,3,Garden/Park,Hydrabad
+1,others,2.29,650.0,10+,Furnished,West,available,2,1,Garden/Park,Mumbai
+2,Velachery,0.67,885.0,1,Semi-Furnished,South,available,2,4+,Main Road,chennai
+2,others,3.07,2047.0,2,Unfurnished,North,not sure,2,2,Main Road,Bangalore
+1,others,0.28,545.0,4,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,Thanisandra,1.36,1430.0,10,Unfurnished,East,available,3,2,Garden/Park,Bangalore
+2,Kanjurmarg,1.25,725.0,5,Unfurnished,West,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,1.9,1590.0,5,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+3,Sector 65,3.3,2260.0,3,Unfurnished,East,available,2,3,Main Road,Gurgaon
+2,others,1.0,1035.0,1,Unfurnished,East,available,2,1,Garden/Park,Bangalore
+3,others,1.4,860.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,Sector 89,0.784,300.0,1,Furnished,East,available,4,1,Main Road,Gurgaon
+3,Sector 79,2.84,1890.0,9,Semi-Furnished,North,available,3,3,Garden/Park,Gurgaon
+3,others,0.68,1333.0,3,Unfurnished,South,available,3,1,Main Road,Hydrabad
+2,others,0.48,1127.0,1,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.7000000000000001,1097.0,10+,Furnished,North,available,2,1,Garden/Park,Gurgaon
+3,others,1.5,1350.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,HSR Layout,1.34,1550.0,2,Unfurnished,East,available,2,2,"Garden/Park, Pool",Bangalore
+2,others,0.79,1265.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,Virar,0.44,650.0,5,Semi-Furnished,East,not sure,2,3,Main Road,Mumbai
+2,others,1.75,850.0,3,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,others,1.23,1234.0,0,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+3,Medavakkam,0.85,1348.0,3,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,0.99,1683.0,3,Semi-Furnished,North,available,3,1,Garden/Park,Hydrabad
+3,others,10.5,1600.0,3,Unfurnished,East,available,4,1,Garden/Park,Mumbai
+3,JP Nagar,1.7,1417.0,2,Semi-Furnished,East,available,2,3,Main Road,Bangalore
+2,others,0.49,775.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,others,1.05,970.0,9,Unfurnished,East,not sure,2,1,"Garden/Park, Pool",Bangalore
+3,Sholinganallur,1.09,1868.0,4,Semi-Furnished,East,available,3,1,Garden/Park,chennai
+3,Sholinganallur,0.725,1335.0,2,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",chennai
+2,Avadi,0.3,645.0,4,Semi-Furnished,West,available,2,1,"Garden/Park, Main Road, Pool",chennai
+2,others,1.75,650.0,10+,Unfurnished,West,not sure,2,1,"Garden/Park, Pool",Mumbai
+4,others,4.8,3680.0,10+,Semi-Furnished,North - East,available,4+,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.7000000000000001,1260.0,1,Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.9,1748.0,6,Unfurnished,North,available,3,2,"Garden/Park, Main Road, Pool",Bangalore
+3,others,1.35,1442.0,2,Semi-Furnished,North - East,available,3,4,Main Road,Gurgaon
+3,others,1.65,1275.0,2,Semi-Furnished,North - East,available,3,3,Main Road,Gurgaon
+3,others,6.49,1197.0,10+,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road, Pool",Mumbai
+3,Sector 85,2.85,2129.0,3,Semi-Furnished,North,available,3,3,"Garden/Park, Pool",Gurgaon
+4,Sector 43,7.0,3890.0,1,Semi-Furnished,North - West,available,4,3,Main Road,Gurgaon
+2,others,0.626,966.0,3,Unfurnished,North,available,2,1,Main Road,chennai
+4+,Andheri,30.0,10000.0,10+,Unfurnished,East,available,4+,4+,Garden/Park,Mumbai
+2,others,0.53,1200.0,2,Semi-Furnished,North - East,not sure,2,2,Main Road,Bangalore
+2,others,1.15,1364.0,1,Furnished,East,not sure,2,1,Main Road,Bangalore
+4,Sector 92,1.5,2226.0,10+,Furnished,North - East,available,3,3,"Garden/Park, Main Road",Gurgaon
+2,others,0.7000000000000001,1145.0,2,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.2,595.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+4,others,3.37,3071.0,4,Unfurnished,North,available,4,2,Garden/Park,chennai
+2,Sector 89,1.2,1103.0,4,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+1,Thanisandra,0.774,715.0,7,Unfurnished,East,available,1,1,Main Road,Bangalore
+4,Sector 59,5.7,2595.0,10+,Semi-Furnished,North - East,available,4,4+,"Garden/Park, Main Road",Gurgaon
+2,others,0.58,744.0,2,Furnished,East,not sure,2,4+,Main Road,chennai
+3,Sector 85,0.7000000000000001,900.0,5,Unfurnished,East,available,2,2,Garden/Park,Gurgaon
+2,others,0.35,1060.0,3,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+3,Mira Road,0.985,685.0,3,Unfurnished,South - East,not sure,2,1,Main Road,Mumbai
+2,others,0.5,830.0,4,Unfurnished,North - West,available,2,2,Garden/Park,Hydrabad
+3,Worli,6.3,1500.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road, Pool",Mumbai
+1,others,0.31,600.0,1,Semi-Furnished,North,not sure,1,1,Main Road,chennai
+3,others,3.4,2350.0,10+,Unfurnished,East,available,3,1,Main Road,Gurgaon
+3,others,2.8,1400.0,6,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+2,others,0.62,950.0,2,Semi-Furnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,3.89,1843.0,8,Unfurnished,North,available,3,1,Garden/Park,chennai
+2,Velachery,0.5,765.0,1,Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.14,1816.0,10,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,NH 9,0.895,1630.0,1,Unfurnished,North - East,not sure,3,1,Garden/Park,Hydrabad
+4,others,2.3,2200.0,2,Semi-Furnished,East,available,4,4,Main Road,Gurgaon
+4+,others,1.3,2400.0,2,Unfurnished,North,not sure,4+,1,Main Road,Bangalore
+3,others,2.6,1610.0,10+,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+3,Sector 59,6.7,3106.0,10+,Semi-Furnished,East,available,4,3,Main Road,Gurgaon
+4+,others,1.55,2600.0,3,Unfurnished,West,not sure,4+,1,Main Road,Bangalore
+2,Outer Ring Road,0.986,1315.0,9,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+4+,others,30.0,5000.0,10+,Semi-Furnished,North - East,available,4+,2,Main Road,Mumbai
+3,Kolathur,0.52,816.0,0,Unfurnished,East,available,2,4+,Main Road,chennai
+3,Sector 111,3.43,2080.0,10+,Semi-Furnished,North - East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,Perumbakkam,0.525,926.0,1,Unfurnished,North,not sure,2,1,Main Road,chennai
+4,others,7.0,205.0,10+,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+2,others,0.6,883.0,6,Semi-Furnished,South,available,2,1,Main Road,Bangalore
+2,others,0.41,801.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+2,Puppalguda,0.63,1135.0,2,Furnished,West,available,2,1,Main Road,Hydrabad
+3,Whitefield,4.3,2753.0,10+,Semi-Furnished,East,available,3,2,Garden/Park,Bangalore
+2,others,0.6,886.0,3,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+1,Borivali,1.48,435.0,8,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,Velachery,1.29,1440.0,1,Semi-Furnished,East,available,3,1,Main Road,chennai
+3,Sector 71,1.97,1740.0,2,Semi-Furnished,North - East,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,Goregaon,2.5,1350.0,10+,Semi-Furnished,North,available,2,4,"Garden/Park, Main Road",Mumbai
+1,Kandivali,1.15,405.0,10+,Semi-Furnished,North,not sure,2,1,Main Road,Mumbai
+2,others,0.26,668.0,2,Semi-Furnished,South,not sure,1,1,Main Road,chennai
+3,Outer Ring Road,3.0,2380.0,1,Semi-Furnished,North - East,not sure,4,4,"Garden/Park, Main Road",Bangalore
+3,Sector 71,2.07,1676.0,10+,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+1,others,0.75,946.0,0,Unfurnished,North - East,not sure,2,1,Main Road,Hydrabad
+3,others,6.5,1800.0,10+,Unfurnished,West,available,3,3,"Garden/Park, Main Road, Pool",Mumbai
+3,Sector 37D,1.5,1440.0,3,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,Sector 79,1.85,1140.0,9,Furnished,East,available,2,1,Garden/Park,Gurgaon
+1,Sector 57,1.55,1210.0,10+,Semi-Furnished,East,available,1,1,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,1.9,345.0,1,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+2,Thanisandra,1.35,1098.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.48,920.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",chennai
+2,Gunjur,1.28,1345.0,6,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.8200000000000001,1164.0,4,Furnished,East,available,2,2,Main Road,Hydrabad
+2,others,0.45,910.0,3,Unfurnished,North,not sure,2,1,Main Road,Hydrabad
+2,Mulund,2.0,850.0,5,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,4.0,2538.0,10+,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+1,Mulund,0.6,324.0,10+,Unfurnished,East,available,1,1,Main Road,Mumbai
+3,Sector 43,6.2,1983.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Main Road",Gurgaon
+4,others,2.35,2300.0,4,Semi-Furnished,East,available,4,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,2.3,3850.0,4,Semi-Furnished,South - East,available,4+,4+,"Garden/Park, Pool",Gurgaon
+3,Nizampet,1.5,1890.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,2.03,1450.0,10+,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+1,Santacruz,1.75,650.0,2,Furnished,North,available,2,3,Main Road,Mumbai
+3,others,2.25,1680.0,9,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.59,1080.0,2,Semi-Furnished,North,available,2,1,Main Road,Bangalore
+3,others,2.3,1400.0,3,Furnished,North,available,3,2,"Garden/Park, Main Road",chennai
+3,Velachery,0.85,1100.0,1,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",chennai
+3,others,4.5,3350.0,4,Semi-Furnished,East,available,3,3,Main Road,chennai
+3,Whitefield,1.6,1680.0,1,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+2,others,0.68,1105.0,8,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+3,Kondapur,2.0,1950.0,8,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+1,Andheri,1.49,548.0,10+,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+3,others,1.24,1784.0,3,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,Whitefield,1.71,1300.0,8,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+3,others,1.2,1675.0,2,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+4,Sector 24,11.0,7000.0,6,Unfurnished,East,available,4+,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sector 2,1.58,1751.0,5,Unfurnished,East,available,3,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.65,1296.0,3,Semi-Furnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+1,Malad,0.51,330.0,3,Semi-Furnished,South - East,not sure,2,1,Garden/Park,Mumbai
+3,Malad,3.4,1650.0,3,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+2,Chembur,1.65,760.0,6,Furnished,North - East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Ambattur,0.62,1068.0,2,Semi-Furnished,East,not sure,2,3,Main Road,chennai
+2,Ambattur,0.45,798.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+4,Sector 85,2.79,2812.0,2,Unfurnished,East,available,3,3,Garden/Park,Gurgaon
+3,others,5.95,3000.0,4,Unfurnished,East,not sure,4,3,Garden/Park,Bangalore
+3,Sector 37D,3.9,2469.0,10+,Semi-Furnished,North - West,available,3,3,Main Road,Gurgaon
+3,Perumbakkam,0.8390000000000001,1222.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+1,others,1.9,415.0,0,Unfurnished,West,not sure,1,1,Main Road,Mumbai
+2,others,0.604,955.0,5,Unfurnished,South,available,2,3,Main Road,chennai
+4,Madipakkam,1.68,2240.0,1,Unfurnished,North,available,3,2,Main Road,chennai
+2,others,2.75,1381.0,10+,Semi-Furnished,North - East,available,2,2,"Garden/Park, Pool",Gurgaon
+2,others,1.08,844.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.547,1335.0,5,Unfurnished,East,not sure,2,1,Garden/Park,Hydrabad
+3,others,0.7020000000000001,1800.0,8,Semi-Furnished,East,not sure,4,1,Main Road,Hydrabad
+4+,Sector 43,25.7,10000.0,10+,Unfurnished,East,available,4+,4+,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.6,1150.0,3,Semi-Furnished,East,available,2,3,Garden/Park,Bangalore
+2,others,0.593,1119.0,2,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+2,others,0.52,1133.0,1,Semi-Furnished,West,not sure,2,1,Main Road,Bangalore
+3,Perumbakkam,0.73,1355.0,2,Semi-Furnished,West,available,2,2,"Garden/Park, Main Road, Pool",chennai
+2,Malad,2.0,1210.0,6,Unfurnished,North,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Madipakkam,0.45,890.0,2,Unfurnished,North,not sure,2,4+,Main Road,chennai
+1,Malad,0.85,620.0,1,Semi-Furnished,East,not sure,2,1,Garden/Park,Mumbai
+2,HSR Layout,1.08,1209.0,3,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Guduvancheri,0.35,729.0,1,Furnished,East,available,2,1,"Garden/Park, Main Road",chennai
+1,Bandra,3.0,600.0,6,Semi-Furnished,West,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,Ambattur,1.35,1380.0,4,Semi-Furnished,North - East,not sure,3,1,Main Road,chennai
+3,Sector 71,2.18,1600.0,1,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",Gurgaon
+4,others,2.5,2800.0,10+,Unfurnished,West,not sure,4,2,"Garden/Park, Main Road",Hydrabad
+3,Whitefield,6.0,4100.0,10+,Semi-Furnished,East,available,4,1,Garden/Park,Bangalore
+2,others,0.47,1054.0,3,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road, Pool",chennai
+4,others,1.3,2600.0,4,Furnished,East,not sure,4,1,Main Road,Hydrabad
+3,others,2.1,1632.0,7,Unfurnished,East,available,3,1,Pool,Bangalore
+2,others,1.9,706.0,7,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+2,others,0.65,1003.0,4,Semi-Furnished,East,available,2,1,Main Road,chennai
+2,others,0.8059999999999999,1486.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,Kandivali,1.23,433.0,1,Unfurnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,3.36,926.0,10,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+1,Santacruz,1.8,594.0,0,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.42,764.0,1,Unfurnished,North,not sure,2,4+,Main Road,chennai
+2,others,1.05,1050.0,2,Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.417,684.0,0,Semi-Furnished,South,available,2,4+,Main Road,chennai
+2,Sector 89,1.0,1103.0,10+,Unfurnished,East,available,2,2,Garden/Park,Gurgaon
+1,others,0.87,460.0,1,Furnished,North,available,1,1,Main Road,Mumbai
+2,others,1.98,891.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+1,Kandivali,0.9,605.0,3,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,others,6.8,1824.0,8,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,others,5.2,3200.0,3,Unfurnished,East,not sure,4,3,Main Road,Bangalore
+3,others,0.36,900.0,1,Unfurnished,East,not sure,3,4+,Main Road,chennai
+2,others,0.62,1185.0,3,Furnished,North - East,available,2,2,Garden/Park,Bangalore
+2,others,1.35,567.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.07,1534.0,10+,Unfurnished,East,available,3,1,Main Road,Hydrabad
+2,others,1.08,1595.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,Hennur Main Road,1.5,2220.0,3,Semi-Furnished,East,available,3,3,Main Road,Bangalore
+2,others,0.28,720.0,4,Furnished,East,available,2,1,Main Road,Gurgaon
+2,others,1.72,1795.0,3,Semi-Furnished,North,available,2,1,Main Road,Hydrabad
+3,Puppalguda,1.7,1695.0,10+,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+3,Kollur,1.27,2034.0,6,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+4,Prabhadevi,15.0,3560.0,10+,Unfurnished,North,available,4+,1,"Garden/Park, Main Road, Pool",Mumbai
+1,Thanisandra,0.644,715.0,10+,Unfurnished,East,not sure,1,1,Main Road,Bangalore
+2,Outer Ring Road,0.662,1196.0,3,Unfurnished,North,available,2,1,Main Road,Hydrabad
+4,Sector 92,3.0,3700.0,1,Unfurnished,East,available,4,3,Garden/Park,Gurgaon
+3,others,0.8,1785.0,5,Unfurnished,North - West,not sure,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,Chromepet,0.72,1048.0,1,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",chennai
+3,others,0.55,1250.0,2,Furnished,North,available,2,2,Main Road,Gurgaon
+2,Thanisandra Main Road,1.1,1200.0,10,Semi-Furnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+3,others,0.58,1335.0,2,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+3,others,0.6,1401.0,1,Semi-Furnished,East,not sure,3,2,Main Road,chennai
+3,Chembur,2.6,1000.0,6,Unfurnished,North - West,available,2,1,Main Road,Mumbai
+2,others,0.53,1150.0,3,Unfurnished,West,not sure,2,1,Main Road,Hydrabad
+3,others,2.81,1789.0,10+,Unfurnished,East,available,3,3,Main Road,Gurgaon
+3,others,0.68,1330.0,6,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Sector 111,3.95,1587.0,10+,Unfurnished,East,available,3,4,Main Road,Gurgaon
+3,others,3.3,1640.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,others,1.0,1586.0,4,Unfurnished,North,available,3,3,"Garden/Park, Main Road",Bangalore
+3,others,2.0,1753.0,5,Furnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,1.3,1085.0,10+,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Hebbal,0.95,1057.0,4,Unfurnished,North,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+3,others,2.1,2078.0,4,Semi-Furnished,North - East,available,4,4+,Main Road,Gurgaon
+3,others,1.88,1845.0,5,Semi-Furnished,East,available,2,3,Main Road,Gurgaon
+2,others,0.5,715.0,5,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.74,1050.0,5,Unfurnished,North - East,not sure,2,2,"Garden/Park, Main Road",Mumbai
+3,others,0.95,1370.0,4,Semi-Furnished,North,not sure,2,1,Main Road,Bangalore
+2,Chembur,1.8,700.0,10+,Unfurnished,South,not sure,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.6,1050.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,2.15,1357.0,10+,Unfurnished,South - East,available,3,2,Main Road,Gurgaon
+3,others,0.85,1468.0,6,Unfurnished,North - East,not sure,3,2,Main Road,Bangalore
+3,others,0.45,1030.0,2,Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.35,70.0,6,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+2,Sector 89,1.52,1085.0,10+,Unfurnished,East,available,2,2,Main Road,Gurgaon
+3,Panathur,1.84,1600.0,7,Unfurnished,East,available,3,3,Main Road,Bangalore
+2,Medavakkam,0.465,859.0,1,Semi-Furnished,East,available,2,2,Main Road,chennai
+2,others,0.55,980.0,1,Semi-Furnished,North,available,1,4+,"Garden/Park, Main Road",chennai
+3,others,6.75,1400.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,Sholinganallur,0.752,1001.0,3,Unfurnished,East,available,2,1,Garden/Park,chennai
+3,others,1.95,1900.0,2,Unfurnished,East,available,3,3,Main Road,Bangalore
+2,others,4.5,1200.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,1.93,1580.0,3,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.55,1100.0,2,Semi-Furnished,East,available,2,1,Main Road,chennai
+3,others,9.0,1550.0,1,Unfurnished,East,not sure,4,1,Main Road,Mumbai
+1,others,1.09,550.0,9,Unfurnished,East,not sure,2,1,Garden/Park,Mumbai
+2,others,1.65,600.0,9,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+1,others,0.4,650.0,6,Unfurnished,West,not sure,1,2,Main Road,Mumbai
+3,others,1.8,1980.0,2,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,2.76,2120.0,3,Unfurnished,West,available,4,4,Main Road,Bangalore
+2,others,0.5,715.0,1,Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Virar,0.75,1200.0,0,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.3,1563.0,1,Semi-Furnished,East,available,2,2,Main Road,Bangalore
+2,others,0.75,1175.0,2,Furnished,North - East,not sure,2,1,Main Road,Hydrabad
+2,others,1.2,1170.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,2.25,1020.0,10+,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+4,others,4.7,3156.0,10+,Semi-Furnished,North - East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.51,1050.0,4,Furnished,North - West,not sure,2,2,"Garden/Park, Pool",Hydrabad
+2,others,0.42,1200.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,4.3,770.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.95,1155.0,1,Semi-Furnished,South,not sure,2,1,Garden/Park,chennai
+1,others,1.6,700.0,0,Unfurnished,East,available,1,1,Main Road,Mumbai
+3,others,0.53,1317.0,4,Unfurnished,South,not sure,3,1,Main Road,chennai
+2,others,3.13,980.0,5,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.85,925.0,1,Semi-Furnished,North - West,not sure,2,4,Main Road,chennai
+4+,others,1.45,2400.0,10+,Semi-Furnished,West,available,4,2,Garden/Park,Bangalore
+2,others,0.55,700.0,6,Semi-Furnished,East,available,4,3,Main Road,Gurgaon
+3,others,1.4,1626.0,5,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.43,845.0,2,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.42,850.0,1,Furnished,North,available,2,4+,Main Road,chennai
+4,others,27.0,3500.0,10+,Semi-Furnished,South - East,available,4+,1,Main Road,Mumbai
+2,others,0.7000000000000001,1081.0,4,Semi-Furnished,East,available,2,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,5.0,2595.0,0,Furnished,South - East,not sure,3,2,"Garden/Park, Main Road",Hydrabad
+3,Sarjapura,0.62,1320.0,6,Furnished,East,not sure,3,1,Main Road,Bangalore
+4+,others,8.0,10000.0,0,Semi-Furnished,West,not sure,4+,1,Main Road,Hydrabad
+2,others,0.59,975.0,3,Furnished,West,available,2,1,Main Road,Hydrabad
+1,others,0.45,680.0,7,Semi-Furnished,East,available,2,3,Main Road,Mumbai
+3,others,2.0,2107.0,7,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.75,1100.0,4,Unfurnished,North,not sure,2,1,Main Road,Hydrabad
+2,Bagaluru,0.79,904.0,10+,Unfurnished,North,not sure,2,1,Main Road,Bangalore
+2,others,1.3,1100.0,3,Furnished,North,available,2,1,Garden/Park,chennai
+3,others,3.25,2310.0,6,Semi-Furnished,East,not sure,3,1,"Garden/Park, Pool",Hydrabad
+2,others,0.9,822.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+4,others,5.0,3350.0,10+,Semi-Furnished,North,available,4,4,Garden/Park,Gurgaon
+2,others,0.51,1150.0,4,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.65,896.0,3,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.95,1100.0,3,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+3,others,4.27,3050.0,7,Semi-Furnished,North,available,3,2,Garden/Park,Gurgaon
+2,Sector 2,1.2,1210.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,Borivali,2.9,1507.0,7,Semi-Furnished,East,not sure,3,1,Main Road,Mumbai
+2,Pragathi Nagar,0.551,1115.0,2,Unfurnished,West,not sure,2,1,"Garden/Park, Main Road",Hydrabad
+3,Sector 65,2.63,1600.0,1,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,Sector 2,1.5,2000.0,4,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+2,Hebbal,1.5,1048.0,10+,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+4,Sector 43,3.85,2700.0,10+,Unfurnished,South - East,available,4,4,Garden/Park,Gurgaon
+3,Sarjapur Road,1.99,1178.0,10,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+4,Sector 102,4.15,3200.0,10+,Semi-Furnished,East,available,4+,3,Garden/Park,Gurgaon
+3,Narsingi,0.9,1600.0,2,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4,Sector 24,2.0,1760.0,10,Unfurnished,East,available,4,2,Main Road,Gurgaon
+3,others,1.15,2100.0,5,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,Jayanagar,6.0,2400.0,4,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Bangalore
+3,Kokapet,1.84,2353.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+1,others,0.35,220.0,0,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,others,0.58,1470.0,5,Unfurnished,North - East,not sure,3,3,Main Road,Hydrabad
+2,Madipakkam,0.75,1033.0,1,Unfurnished,North,not sure,2,2,Main Road,chennai
+2,Chanda Nagar,0.756,1260.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,7.0,3135.0,7,Unfurnished,East,available,3,1,Garden/Park,chennai
+2,Mogappair,0.85,625.0,10+,Unfurnished,East,not sure,1,4+,Main Road,chennai
+2,Sarjapura,0.387,968.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+4,Sector 43,4.5,1800.0,2,Furnished,North - East,available,3,2,Main Road,Gurgaon
+3,Thiruvanmiyur,2.2,1780.0,3,Semi-Furnished,North,available,3,1,Main Road,chennai
+3,others,1.85,1745.0,3,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Hydrabad
+4,Sector 85,3.0,2812.0,7,Unfurnished,North,available,3,4,Garden/Park,Gurgaon
+3,Sector 57,1.9,1836.0,3,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Gurgaon
+3,others,4.49,2164.0,10+,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",Gurgaon
+4,Sector 92,1.2,2093.0,10+,Unfurnished,East,available,4,3,Main Road,Gurgaon
+3,others,2.2,1776.0,10+,Unfurnished,North,available,3,1,"Garden/Park, Pool",chennai
+2,others,0.45,737.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+2,Kolathur,0.7070000000000001,1047.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+3,others,0.63,1156.0,1,Unfurnished,South,available,2,1,Main Road,chennai
+4,others,1.8,1100.0,1,Furnished,East,not sure,4,2,Main Road,Bangalore
+3,others,1.03,1525.0,3,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+4+,others,6.7,3760.0,10+,Semi-Furnished,East,available,4,4,"Garden/Park, Pool",chennai
+1,others,0.24,515.0,0,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,Sector 92,1.05,1150.0,3,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.645,1484.0,4,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Mulund,2.87,1670.0,10+,Semi-Furnished,North,not sure,3,1,Main Road,Mumbai
+2,others,0.45,70.0,1,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,Manikonda Jagir,2.0,1955.0,10+,Semi-Furnished,East,available,3,3,Garden/Park,Hydrabad
+2,others,2.2,1245.0,8,Semi-Furnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,3.0,2300.0,2,Semi-Furnished,East,available,3,4+,"Garden/Park, Main Road",Bangalore
+1,others,0.35,334.0,10,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,1.4,1100.0,1,Semi-Furnished,North,not sure,2,2,"Garden/Park, Main Road",chennai
+2,others,0.78,900.0,1,Semi-Furnished,South,available,1,1,Main Road,Gurgaon
+3,Sector 59,4.7,2295.0,7,Semi-Furnished,North - East,available,4+,2,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,1.6,631.0,1,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+1,others,1.55,650.0,7,Furnished,East,available,1,1,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.9,900.0,3,Unfurnished,North,available,2,1,"Garden/Park, Main Road",chennai
+2,Medavakkam,0.66,847.0,4,Furnished,East,not sure,2,4+,Main Road,chennai
+4,JP Nagar,1.3,1650.0,3,Semi-Furnished,East,not sure,4,1,Main Road,Bangalore
+3,Sector 61,2.4,1648.0,1,Semi-Furnished,North - East,available,3,4,Garden/Park,Gurgaon
+2,others,0.72,1185.0,4,Unfurnished,West,not sure,2,2,Main Road,Hydrabad
+3,others,1.3,1500.0,1,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road",Gurgaon
+3,others,0.45,1240.0,2,Semi-Furnished,West,available,3,2,Main Road,chennai
+2,others,0.42,900.0,1,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,others,2.0,1356.0,2,Furnished,North,available,1,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,Thiruvanmiyur,1.35,1532.0,1,Semi-Furnished,East,not sure,3,1,Main Road,chennai
+3,Sector 14,3.0,2000.0,1,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
+4,others,3.5,2626.0,1,Semi-Furnished,North,available,4,3,Main Road,chennai
+2,others,1.15,1185.0,3,Unfurnished,East,not sure,2,3,Main Road,Bangalore
+2,Mulund,1.4,570.0,10,Unfurnished,East,not sure,2,1,Garden/Park,Mumbai
+2,Kolathur,0.5,840.0,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,Sector 89,1.5,1957.0,10+,Unfurnished,East,available,3,2,Main Road,Gurgaon
+2,others,0.43,830.0,1,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road",chennai
+2,Whitefield,1.0,1300.0,1,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+3,Sarjapur Road,2.0,1656.0,3,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,others,0.95,1550.0,2,Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,0.95,2040.0,4,Furnished,East,not sure,3,1,Main Road,Hydrabad
+4+,others,7.5,4225.0,10+,Furnished,East,available,4+,3,"Garden/Park, Pool",Bangalore
+1,Kengeri,0.43,790.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+2,others,22.0,900.0,2,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Kandivali,2.9,1300.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+2,Andheri,1.8,682.0,0,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,2.2,3100.0,4,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+2,Andheri,3.0,1100.0,1,Furnished,East,not sure,2,1,Main Road,Mumbai
+3,Gunjur,2.08,1857.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Malad,1.9,1050.0,10+,Unfurnished,North,not sure,2,1,Main Road,Mumbai
+1,Miyapur,0.42,450.0,3,Furnished,East,available,1,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.4,1499.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,others,1.3,1601.0,1,Semi-Furnished,East,available,3,3,"Garden/Park, Pool",Bangalore
+3,Sector 106,2.16,1503.0,10+,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,others,0.55,1100.0,10+,Unfurnished,East,not sure,4+,4+,Main Road,chennai
+2,Kelambakkam,0.87,1274.0,10+,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road, Pool",chennai
+3,Worli,9.04,1500.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+2,others,0.75,1260.0,6,Unfurnished,North,not sure,2,1,Garden/Park,chennai
+3,others,2.6,1368.0,10+,Unfurnished,East,not sure,3,4+,Main Road,chennai
+4,others,3.9,2431.0,1,Semi-Furnished,East,not sure,4,1,Main Road,chennai
+2,others,1.25,3600.0,2,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+1,others,0.25,497.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,JP Nagar,2.0,1982.0,10+,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+4,others,5.55,4075.0,10+,Unfurnished,East,available,4+,1,Main Road,Bangalore
+4,others,5.09,4030.0,10,Semi-Furnished,East,available,4,3,Main Road,Gurgaon
+2,Nizampet,0.55,1225.0,1,Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Sector 92,1.15,959.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,others,0.79,1565.0,10+,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,1.04,1445.0,1,Semi-Furnished,West,available,2,1,Main Road,Hydrabad
+3,Sector 61,2.19,1542.0,3,Semi-Furnished,North - East,available,3,2,Garden/Park,Gurgaon
+3,Narsingi,2.4,2020.0,10+,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+3,Miyapur,0.55,1600.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+4,Sector 24,11.5,1941.0,10+,Furnished,East,available,3,3,Main Road,Gurgaon
+3,others,1.99,1425.0,2,Unfurnished,East,not sure,2,1,Main Road,chennai
+2,Nizampet,0.6,1000.0,4,Semi-Furnished,West,available,2,1,Main Road,Hydrabad
+2,others,0.8,1000.0,2,Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,others,1.35,1800.0,6,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,Sector 65,5.5,2900.0,10+,Semi-Furnished,North - East,available,4,3,Garden/Park,Gurgaon
+4,others,2.5,2547.0,3,Semi-Furnished,North,available,4,2,Garden/Park,Gurgaon
+2,Miyapur,0.85,1094.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,Yapral,0.63,1500.0,1,Unfurnished,West,not sure,2,2,Garden/Park,Hydrabad
+3,Sector 37D,2.2,2250.0,3,Semi-Furnished,South,available,3,4,Main Road,Gurgaon
+2,Sholinganallur,0.8,1400.0,2,Semi-Furnished,East,available,2,4+,Main Road,chennai
+2,Urapakkam,0.545,937.0,1,Semi-Furnished,West,available,2,1,Main Road,chennai
+2,others,0.58,1125.0,3,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+2,others,1.63,700.0,4,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+2,Kanjurmarg,1.88,753.0,10+,Semi-Furnished,North - West,available,2,1,Garden/Park,Mumbai
+3,Kollur,1.16,1715.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,1.16,1980.0,7,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.5,1000.0,3,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.2,1440.0,3,Semi-Furnished,West,not sure,2,2,Main Road,Hydrabad
+3,others,1.12,1179.0,1,Unfurnished,East,available,2,1,Main Road,chennai
+3,Andheri,5.5,1500.0,10+,Unfurnished,East,available,3,3,Garden/Park,Mumbai
+4,Kompally,1.54,2334.0,9,Unfurnished,East,available,4,3,Main Road,Hydrabad
+4,Sector 63,7.9,3900.0,10+,Semi-Furnished,East,available,4,3,"Garden/Park, Pool",Gurgaon
+1,Sector 102,0.35,500.0,6,Unfurnished,East,available,1,1,Garden/Park,Gurgaon
+2,others,3.51,870.0,3,Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.665,1197.0,4,Unfurnished,West,available,2,1,Main Road,Hydrabad
+3,others,2.0,1200.0,3,Unfurnished,East,not sure,3,3,Main Road,chennai
+3,Sector 57,3.1,2293.0,3,Unfurnished,North - East,available,2,3,"Garden/Park, Pool",Gurgaon
+1,Wadala,1.65,470.0,10+,Unfurnished,East,available,1,1,"Garden/Park, Main Road, Pool",Mumbai
+1,Ghatkopar,0.95,700.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.53,1570.0,10,Unfurnished,East,available,3,4,Main Road,Gurgaon
+3,Perumbakkam,0.79,1549.0,3,Semi-Furnished,East,available,2,4+,"Garden/Park, Main Road, Pool",chennai
+1,Mira Road,0.63,500.0,1,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.42,1040.0,2,Furnished,North,available,2,4+,Main Road,chennai
+2,others,0.67,1058.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,Padur,0.98,1680.0,4,Furnished,East,not sure,3,2,Main Road,chennai
+1,others,0.22,650.0,4,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Gurgaon
+4,Prabhadevi,16.0,2805.0,10+,Unfurnished,East,available,4,3,"Garden/Park, Pool",Mumbai
+2,Sarjapur Road,1.13,1237.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,others,0.922,1720.0,1,Semi-Furnished,North,available,3,3,"Garden/Park, Main Road, Pool",Bangalore
+3,others,7.25,1100.0,5,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+2,others,0.9,1100.0,2,Unfurnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sector 43,1.6,1719.0,5,Semi-Furnished,South - East,available,3,3,Main Road,Gurgaon
+3,Sector 89,1.41,1957.0,10+,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+4,others,4.0,3140.0,1,Unfurnished,North - East,not sure,4,3,Main Road,Hydrabad
+2,Gachibowli,1.1,1210.0,1,Semi-Furnished,East,available,2,2,Garden/Park,Hydrabad
+2,others,0.79,1059.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Sector 57,1.25,1000.0,3,Semi-Furnished,East,available,4+,4+,Main Road,Gurgaon
+3,others,1.5,1850.0,3,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road",Gurgaon
+3,others,1.55,700.0,2,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,Manikonda Jagir,1.65,1710.0,4,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.7000000000000001,1021.6,7,Semi-Furnished,North,available,4,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,Sector 79,1.66,1158.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,Malad,2.8,1200.0,10+,Unfurnished,West,not sure,4,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Nizampet,0.85,1120.0,1,Furnished,North,not sure,2,1,Main Road,Hydrabad
+3,others,1.1,1220.0,1,Unfurnished,West,not sure,3,4+,Main Road,chennai
+4,Whitefield,5.07,4100.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.31,1000.0,5,Semi-Furnished,North - East,available,2,2,Main Road,Bangalore
+1,others,0.27,550.0,1,Furnished,East,not sure,1,4+,Main Road,chennai
+3,others,1.2,3300.0,2,Furnished,East,not sure,3,1,Main Road,Bangalore
+3,Jakkur,2.8,2015.0,1,Unfurnished,East,available,3,4,Main Road,Bangalore
+2,others,1.05,1420.0,10+,Unfurnished,East,not sure,2,2,Pool,Bangalore
+3,others,0.8,1206.0,3,Semi-Furnished,North,available,2,4+,"Garden/Park, Main Road",chennai
+3,others,1.3,1800.0,3,Unfurnished,North,not sure,2,1,Garden/Park,Bangalore
+2,others,0.65,900.0,4,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,3.3,1418.0,8,Semi-Furnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.0,1183.0,8,Semi-Furnished,East,available,2,1,Garden/Park,Bangalore
+3,Sector 63A,3.1,1130.0,4,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+2,others,0.62,1115.0,3,Semi-Furnished,East,available,2,1,Garden/Park,Hydrabad
+2,others,0.82,1130.0,10+,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.8109999999999999,1248.0,1,Unfurnished,East,available,2,2,"Garden/Park, Main Road",chennai
+2,Ambattur,0.52,795.0,1,Unfurnished,North,not sure,2,4+,Main Road,chennai
+3,others,8.24,1498.0,2,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+3,Pallikaranai,0.9,1200.0,1,Unfurnished,East,available,3,1,Main Road,chennai
+3,Malad,2.44,1300.0,10+,Semi-Furnished,East,not sure,3,1,"Garden/Park, Main Road, Pool",Mumbai
+4,others,1.75,3500.0,10+,Unfurnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.48,931.0,1,Semi-Furnished,East,available,2,1,Main Road,chennai
+2,Miyapur,0.685,1240.0,3,Unfurnished,East,not sure,2,2,Garden/Park,Hydrabad
+3,others,0.928,1600.0,4,Unfurnished,East,available,3,2,Main Road,Hydrabad
+3,others,0.9,1500.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+3,Bandra,8.5,1150.0,10,Furnished,East,available,3,1,Main Road,Mumbai
+3,others,3.5,2300.0,10+,Unfurnished,South,not sure,2,1,"Garden/Park, Main Road",Bangalore
+3,Sector 92,1.13,775.0,3,Furnished,East,available,2,1,Main Road,Gurgaon
+3,others,1.39,2140.0,5,Unfurnished,West,available,3,2,Garden/Park,Hydrabad
+2,others,1.5,800.0,6,Semi-Furnished,East,not sure,2,3,Main Road,Mumbai
+4,Andheri,4.8,2120.0,10+,Semi-Furnished,East,available,4,3,"Garden/Park, Main Road, Pool",Mumbai
+3,others,0.6900000000000001,1300.0,3,Unfurnished,West,not sure,3,1,Garden/Park,Hydrabad
+2,others,1.9,650.0,6,Furnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+4+,Medavakkam,1.58,1500.0,2,Semi-Furnished,East,not sure,4+,4+,Main Road,chennai
+3,others,4.5,2164.0,10,Unfurnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.95,840.0,3,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,others,1.75,1075.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,Mulund,1.35,816.0,10+,Unfurnished,North - East,available,2,1,Main Road,Mumbai
+4,others,4.67,2459.0,3,Unfurnished,East,available,4,3,Garden/Park,Gurgaon
+2,others,0.42,1160.0,2,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+1,others,1.59,430.0,10,Unfurnished,East,not sure,1,1,Main Road,Bangalore
+3,others,2.55,2100.0,1,Unfurnished,North - East,not sure,4,3,Main Road,Bangalore
+4,Sector 24,14.0,1125.0,10,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+3,others,3.3,2880.0,10+,Unfurnished,West,available,3,1,Main Road,Hydrabad
+2,Kelambakkam,0.52,1279.0,5,Unfurnished,North,not sure,2,2,"Garden/Park, Main Road",chennai
+2,others,0.75,584.0,5,Furnished,East,available,2,1,Main Road,Gurgaon
+3,others,2.1,2150.0,6,Semi-Furnished,North - East,available,4,3,Garden/Park,Gurgaon
+4,others,2.11,2700.0,3,Semi-Furnished,East,not sure,4,1,Main Road,Bangalore
+2,others,0.7000000000000001,1150.0,1,Semi-Furnished,West,not sure,2,1,Main Road,Hydrabad
+1,others,0.34,800.0,4,Unfurnished,North,available,1,1,Main Road,Bangalore
+4+,Kengeri,2.75,6400.0,10+,Furnished,South,available,4+,4+,"Garden/Park, Main Road",Bangalore
+4,Kondapur,3.1,3666.0,4,Furnished,East,not sure,4,1,Main Road,Hydrabad
+4,Sector 79,3.8,2685.0,1,Furnished,East,available,1,1,Garden/Park,Gurgaon
+2,others,0.696,1071.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+2,others,0.59,1148.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.53,788.0,2,Unfurnished,East,available,2,2,Main Road,chennai
+1,others,2.5,650.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,Pragathi Nagar,0.68,1120.0,1,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Hydrabad
+2,others,0.63,1150.0,4,Unfurnished,West,not sure,2,2,Main Road,Hydrabad
+4,Sector 63,7.5,3950.0,10+,Semi-Furnished,East,available,4+,4,"Garden/Park, Pool",Gurgaon
+3,Thiruvanmiyur,1.35,1410.0,1,Unfurnished,North,not sure,3,1,Main Road,chennai
+2,Kelambakkam,0.7000000000000001,1367.0,3,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,Sarjapur Road,1.5,998.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+1,Malad,0.88,623.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Bandra,6.93,945.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,others,0.42,1056.0,0,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+2,others,0.35,1280.0,7,Furnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+2,Chanda Nagar,0.34,700.0,2,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Banaswadi,0.93,1220.0,4,Furnished,West,available,2,2,Main Road,Bangalore
+2,others,0.6,580.0,4,Unfurnished,South - East,not sure,2,1,"Garden/Park, Main Road",chennai
+2,Malad,1.29,850.0,10,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Mumbai
+4,Sector 49,3.25,276.0,1,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+4,others,3.65,4300.0,10,Semi-Furnished,North - East,not sure,4+,3,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.5,1725.0,10+,Unfurnished,East,available,3,1,Main Road,Gurgaon
+4,others,14.6,2990.0,5,Furnished,West,available,3,1,Main Road,Mumbai
+2,others,0.53,1300.0,1,Semi-Furnished,North - East,not sure,2,2,Main Road,chennai
+2,Gachibowli,0.86,1265.0,2,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+1,others,0.3,510.0,0,Unfurnished,East,not sure,1,4+,Main Road,chennai
+2,others,0.45,754.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Kolathur,0.4,697.0,1,Furnished,East,not sure,2,1,Main Road,chennai
+2,others,0.795,935.0,1,Unfurnished,East,not sure,2,2,Main Road,chennai
+4,Jayanagar,1.8,1400.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+4+,others,1.1,2400.0,10+,Furnished,East,not sure,4+,1,Main Road,Bangalore
+4,others,8.0,4287.0,3,Unfurnished,East,available,4+,3,Main Road,Bangalore
+3,Borivali,2.35,790.0,5,Furnished,East,not sure,3,1,Main Road,Mumbai
+3,Yelahanka,0.7759999999999999,1300.0,1,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,others,3.75,1820.0,9,Unfurnished,East,not sure,3,4+,Main Road,chennai
+2,others,2.0,833.0,5,Semi-Furnished,West,available,2,2,"Garden/Park, Main Road",Mumbai
+3,others,0.7000000000000001,2000.0,6,Semi-Furnished,East,not sure,2,3,Main Road,Hydrabad
+2,others,0.55,1116.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.887,1016.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+4,Sector 113,3.8,2597.0,5,Unfurnished,East,available,4,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.7000000000000001,1030.0,1,Unfurnished,North,not sure,2,1,Main Road,Hydrabad
+2,Mulund,1.8,1178.0,1,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Mumbai
+3,Medavakkam,1.1,1425.0,10,Unfurnished,West,not sure,2,1,Garden/Park,chennai
+2,Goregaon,2.55,1290.0,10+,Unfurnished,North,not sure,2,2,Main Road,Mumbai
+3,Ambattur,0.75,1015.0,0,Unfurnished,South,not sure,2,4+,Main Road,chennai
+3,Chanda Nagar,0.96,1600.0,1,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+4,Prabhadevi,14.75,3000.0,10+,Semi-Furnished,North - West,available,4+,1,Main Road,Mumbai
+3,Sector 61,3.2,2168.6,3,Unfurnished,North - East,available,3,2,Main Road,Gurgaon
+4,others,3.7,4100.0,10+,Semi-Furnished,East,not sure,4+,4+,"Garden/Park, Main Road, Pool",Bangalore
+4,Sector 61,5.2,2750.0,10+,Unfurnished,North - East,available,4,4,"Main Road, Pool",Gurgaon
+4,Sector 92,1.5,2226.0,10+,Semi-Furnished,East,available,4+,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.19,1206.0,6,Unfurnished,North,available,2,2,Main Road,Bangalore
+2,Sholinganallur,1.19,1681.0,10,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",chennai
+3,others,1.6,1836.0,3,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road",Gurgaon
+3,Sector 92,0.6,1150.0,2,Semi-Furnished,North,available,2,1,Main Road,Gurgaon
+4,Borivali,4.56,1812.0,10+,Unfurnished,East,available,3,2,Main Road,Mumbai
+3,Kondapur,1.05,1450.0,2,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+1,others,0.51,390.0,2,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road",Mumbai
+2,Porur,0.4,860.0,1,Furnished,South,not sure,2,4+,Main Road,chennai
+3,others,2.8,2300.0,3,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+3,Sector 89,1.5,1423.0,1,Furnished,East,available,2,2,Garden/Park,Gurgaon
+1,Kelambakkam,0.33,526.0,10+,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+4,NH 9,5.5,3277.0,4,Semi-Furnished,East,available,4,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Bachupally,0.97,1688.0,3,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+4+,others,1.2,2300.0,0,Unfurnished,East,not sure,4+,3,Main Road,Hydrabad
+2,others,1.1,761.0,0,Unfurnished,North,not sure,2,4+,Main Road,chennai
+4,Sector 85,3.25,2600.0,9,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road",Gurgaon
+2,others,0.37,720.0,2,Unfurnished,East,available,1,4+,"Garden/Park, Main Road",chennai
+3,Mulund,2.95,1040.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Gunjur,1.35,1300.0,9,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.35,800.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,1.75,1250.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,Sector 79,1.95,1634.0,2,Unfurnished,North - East,available,3,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,Sector 61,1.7,1150.0,3,Semi-Furnished,South,available,3,2,Garden/Park,Gurgaon
+3,Padur,0.79,1405.0,1,Semi-Furnished,North - East,available,3,2,Main Road,chennai
+1,others,0.2,375.0,3,Furnished,East,available,1,1,Main Road,Bangalore
+2,Sector 37D,1.15,1380.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,others,0.71,1458.0,3,Semi-Furnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+3,others,0.35,1062.0,3,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Kandivali,1.6,780.0,5,Furnished,East,available,2,1,Garden/Park,Mumbai
+2,Outer Ring Road,0.65,1290.0,3,Unfurnished,East,available,2,1,"Main Road, Pool",Hydrabad
+2,Ambattur,0.6,850.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Nizampet,0.45,950.0,4,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Kandivali,3.39,1218.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,others,0.698,931.0,3,Semi-Furnished,East,available,2,1,Main Road,chennai
+2,Chembur,2.2,750.0,9,Unfurnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+3,others,1.25,1440.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+1,others,1.16,414.0,4,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.37,1199.0,10+,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,Mulund,1.23,704.0,10+,Unfurnished,North - East,not sure,2,1,Garden/Park,Mumbai
+3,Malad,4.61,1401.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+2,Perumbakkam,0.604,1098.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road",chennai
+2,others,0.5,660.0,2,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+4,Prabhadevi,14.0,2150.0,10+,Semi-Furnished,North - East,available,4,1,Main Road,Mumbai
+2,others,0.8,1075.0,0,Semi-Furnished,East,available,2,4+,Main Road,chennai
+3,Sector 63A,2.6,2727.0,2,Unfurnished,East,available,4,4,Main Road,Gurgaon
+4,others,1.25,3500.0,1,Unfurnished,East,not sure,3,3,Main Road,Hydrabad
+3,others,2.3,1250.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4+,others,4.0,5000.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,3.04,2480.0,10+,Unfurnished,East,available,2,3,Garden/Park,Gurgaon
+3,others,4.3,1775.0,4,Semi-Furnished,East,available,3,1,Main Road,chennai
+3,others,0.75,1532.0,2,Semi-Furnished,East,not sure,3,2,Main Road,Bangalore
+1,others,1.1,400.0,6,Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.1,1810.0,4,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+4,Sector 26,5.76,3000.0,3,Semi-Furnished,North - East,available,4+,2,Main Road,Gurgaon
+3,others,1.25,2350.0,5,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,Uppal,0.95,1575.0,1,Unfurnished,East,not sure,3,1,Garden/Park,Hydrabad
+1,others,0.22,550.0,1,Furnished,East,not sure,1,2,Main Road,Hydrabad
+3,others,2.0,1900.0,1,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
+2,others,0.42,1000.0,2,Unfurnished,North - West,not sure,2,2,Main Road,Hydrabad
+2,others,2.5,1050.0,5,Furnished,East,available,2,1,Main Road,Mumbai
+3,others,1.05,1350.0,3,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+2,others,1.55,1183.0,3,Semi-Furnished,North,available,2,4+,"Garden/Park, Main Road",chennai
+3,Sector 102,2.65,2000.0,4,Unfurnished,East,available,4,2,"Garden/Park, Main Road",Gurgaon
+2,Outer Ring Road,0.6,700.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.79,1412.0,2,Semi-Furnished,North,not sure,3,4+,Main Road,chennai
+1,Andheri,1.29,435.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Sector 14,1.58,308.0,4,Furnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.3,467.0,10+,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+1,others,0.2,500.0,2,Unfurnished,East,not sure,1,4+,Main Road,chennai
+3,others,2.5,2200.0,1,Semi-Furnished,North - East,available,3,2,Garden/Park,Gurgaon
+3,others,0.85,1450.0,10+,Semi-Furnished,East,not sure,3,2,Main Road,Bangalore
+2,Perambur,0.68,960.0,2,Unfurnished,South,not sure,2,1,Main Road,chennai
+3,Gachibowli,1.8,1638.0,7,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,1.01,1300.0,2,Semi-Furnished,North,not sure,2,2,Main Road,Bangalore
+2,others,0.6,1100.0,10+,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,others,0.763,1526.0,4,Unfurnished,East,available,3,1,Main Road,Hydrabad
+2,others,0.35,1230.0,2,Semi-Furnished,North - East,not sure,2,1,Main Road,Hydrabad
+3,Sector 92,2.0,1995.0,6,Semi-Furnished,North - East,available,4,3,Garden/Park,Gurgaon
+2,Porur,0.5870000000000001,1046.0,1,Unfurnished,East,not sure,2,2,Main Road,chennai
+2,others,0.54,1000.0,1,Semi-Furnished,East,available,2,1,Main Road,chennai
+1,others,0.3,415.0,2,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.75,1200.0,1,Furnished,North - East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.7,1940.0,10+,Unfurnished,East,available,4,2,"Garden/Park, Main Road",Bangalore
+2,Kolathur,0.48,780.0,1,Semi-Furnished,East,available,2,1,Main Road,chennai
+3,Mogappair,1.1,1700.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,others,0.59,580.0,1,Unfurnished,East,not sure,2,4,"Garden/Park, Main Road, Pool",Mumbai
+2,Krishnarajapura,0.9,1142.0,5,Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Sector 43,5.7,1983.0,10+,Semi-Furnished,East,available,3,3,"Garden/Park, Pool",Gurgaon
+2,others,0.56,1200.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.4,1110.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,Sector 71,2.19,1620.0,2,Furnished,East,available,3,3,"Garden/Park, Main Road",Gurgaon
+3,others,0.89,1336.0,0,Unfurnished,East,not sure,2,1,Main Road,chennai
+1,others,0.38,600.0,10+,Unfurnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+4,Sector 2,2.7,2200.0,3,Semi-Furnished,East,available,4,2,Main Road,Gurgaon
+3,Sector 102,0.55,1150.0,8,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,others,0.65,1250.0,5,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+2,Kolathur,0.9,1055.0,10+,Furnished,East,not sure,3,4+,Main Road,chennai
+4,Sector 111,4.36,2570.0,10+,Furnished,North - East,available,4+,4+,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,2.65,1600.0,10,Unfurnished,North,not sure,3,1,Garden/Park,Mumbai
+2,Urapakkam,0.3,640.0,2,Semi-Furnished,East,available,2,1,Main Road,chennai
+2,others,0.55,1150.0,4,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+2,Mogappair,0.518,836.0,3,Unfurnished,North,not sure,2,1,Main Road,chennai
+2,Sector 61,1.55,1150.0,1,Semi-Furnished,North - East,available,2,2,"Garden/Park, Pool",Gurgaon
+3,HSR Layout,2.59,1850.0,7,Unfurnished,East,not sure,3,3,"Garden/Park, Main Road, Pool",Bangalore
+3,Panathur,2.25,1611.0,10+,Unfurnished,East,available,2,1,Garden/Park,Bangalore
+3,others,1.35,1800.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,Pallikaranai,0.45,1002.0,1,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",chennai
+1,HSR Layout,3.45,1150.0,10+,Semi-Furnished,South - East,not sure,2,2,Main Road,Bangalore
+2,Thanisandra Main Road,0.98,1180.0,9,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Bangalore
+2,Pragathi Nagar,0.5,1250.0,9,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,Borivali,1.95,1165.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+4+,Kollur,1.52,3800.0,10,Unfurnished,East,available,4+,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Sarjapura,1.6,1594.0,10,Unfurnished,East,available,3,1,Garden/Park,Bangalore
+4,others,7.4,3684.0,10+,Semi-Furnished,East,available,4+,1,Main Road,Gurgaon
+3,others,1.5,2150.0,10+,Unfurnished,East,available,3,1,Main Road,Bangalore
+2,Bandlaguda Jagir,0.659,1199.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+4,others,0.52,1700.0,5,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+4,others,2.6,2010.0,10+,Semi-Furnished,East,available,4,3,Main Road,Gurgaon
+3,others,1.8,1862.0,1,Semi-Furnished,South,not sure,3,2,"Garden/Park, Pool",chennai
+3,Sector 85,2.2,2120.0,6,Unfurnished,East,available,1,1,Main Road,Gurgaon
+3,others,1.85,1920.0,10+,Semi-Furnished,East,available,3,1,"Garden/Park, Pool",Bangalore
+3,Panathur,2.7,2490.0,10+,Unfurnished,East,available,3,1,Main Road,Bangalore
+3,Sector 61,2.16,1545.0,4,Unfurnished,East,available,3,2,Main Road,Gurgaon
+3,others,2.66,2052.0,9,Furnished,East,not sure,3,3,Main Road,chennai
+3,others,1.75,1660.0,2,Semi-Furnished,East,available,3,2,Garden/Park,Bangalore
+2,Chromepet,0.59,850.0,1,Unfurnished,North,available,2,2,Main Road,chennai
+3,Outer Ring Road,1.08,1815.0,5,Unfurnished,East,available,3,2,Main Road,Hydrabad
+2,others,0.65,1240.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.425,987.0,4,Furnished,East,available,2,1,Main Road,Mumbai
+2,Bachupally,0.413,1032.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,Ambattur,1.02,2021.0,3,Unfurnished,South -West,not sure,3,3,Garden/Park,chennai
+3,Jakkur,2.04,1776.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,others,3.85,2500.0,2,Unfurnished,West,not sure,3,2,"Garden/Park, Pool",chennai
+4,others,2.85,3200.0,4,Semi-Furnished,East,available,4,2,"Garden/Park, Main Road",Gurgaon
+3,Sholinganallur,0.75,1165.0,4,Semi-Furnished,North - East,available,2,1,"Garden/Park, Main Road, Pool",chennai
+3,others,1.6,1535.0,8,Unfurnished,East,not sure,3,2,Pool,Bangalore
+2,NH 9,0.95,1350.0,1,Semi-Furnished,East,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+3,Sector 71,1.9,1650.0,10+,Unfurnished,East,available,3,3,Main Road,Gurgaon
+2,others,0.5,1220.0,3,Furnished,East,available,2,1,Main Road,Hydrabad
+3,Hebbal,2.3,1985.0,8,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+3,others,2.6,2900.0,10+,Unfurnished,East,available,4,3,Garden/Park,Gurgaon
+3,Chromepet,0.636,1135.0,1,Furnished,East,not sure,2,4+,Main Road,chennai
+3,Sector 79,3.25,510.0,3,Semi-Furnished,East,available,1,1,Main Road,Gurgaon
+1,others,0.89,560.0,5,Unfurnished,East,not sure,1,2,"Garden/Park, Main Road",Mumbai
+1,others,0.85,300.0,2,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.99,1245.0,5,Semi-Furnished,West,available,2,1,Main Road,Bangalore
+3,others,0.6900000000000001,1605.0,4,Semi-Furnished,South - East,available,3,2,"Garden/Park, Main Road, Pool",chennai
+3,Sector 89,1.25,658.0,10+,Unfurnished,South - East,available,2,1,Main Road,Gurgaon
+3,others,2.8,1860.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Pool",Gurgaon
+3,others,1.16,1700.0,3,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road, Pool",chennai
+3,others,2.7,2200.0,10+,Furnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.53,1026.0,0,Unfurnished,West,not sure,2,1,Main Road,Hydrabad
+3,others,2.22,1650.0,10+,Unfurnished,North - East,available,3,1,Main Road,Mumbai
+2,others,0.5,800.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,others,2.03,2130.0,5,Unfurnished,East,available,3,1,Main Road,Hydrabad
+3,Sector 57,1.0,2350.0,2,Furnished,East,available,4+,3,Main Road,Gurgaon
+3,others,2.3,1879.0,10+,Unfurnished,East,not sure,3,2,"Garden/Park, Main Road, Pool",Bangalore
+3,Urapakkam,0.45,1250.0,2,Unfurnished,East,not sure,2,2,Main Road,chennai
+2,others,0.88,1030.0,3,Unfurnished,East,not sure,2,2,Main Road,Bangalore
+2,Outer Ring Road,0.31,1100.0,5,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Hydrabad
+1,others,0.412,686.0,1,Unfurnished,North,not sure,1,2,Main Road,chennai
+2,Gunjur,1.69,1216.0,10+,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.55,875.0,2,Unfurnished,East,not sure,2,1,Main Road,chennai
+1,Pallikaranai,0.28,453.0,1,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+4,others,3.25,3060.0,1,Semi-Furnished,North - East,available,4,3,Main Road,Gurgaon
+3,others,1.23,1618.0,3,Semi-Furnished,North,not sure,3,2,Main Road,Hydrabad
+3,NH 9,1.87,1976.0,4,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,2.5,2500.0,3,Semi-Furnished,East,available,3,2,Garden/Park,Gurgaon
+3,Hennur Main Road,1.16,1706.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,others,0.65,1540.0,4,Semi-Furnished,East,not sure,2,2,"Garden/Park, Pool",Bangalore
+3,Kokapet,2.44,2636.0,10+,Unfurnished,East,available,3,1,Garden/Park,Hydrabad
+4,others,6.75,4518.0,4,Semi-Furnished,North - East,available,4,1,Main Road,Gurgaon
+3,Manikonda Jagir,1.48,2209.0,9,Unfurnished,East,available,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,0.8,1515.0,5,Semi-Furnished,East,available,3,1,Garden/Park,Hydrabad
+3,others,0.9,1400.0,3,Semi-Furnished,North - East,available,2,1,Main Road,Hydrabad
+2,others,0.75,985.0,4,Furnished,East,not sure,2,2,Main Road,Hydrabad
+2,others,0.485,1010.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4,Sector 63,7.19,3800.0,10+,Unfurnished,East,available,4+,3,Main Road,Gurgaon
+4,others,25.0,4000.0,10+,Unfurnished,North - East,not sure,4+,3,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.325,820.0,1,Semi-Furnished,South,available,2,4+,"Garden/Park, Main Road",chennai
+4,others,2.6,2600.0,7,Unfurnished,North - West,available,4,3,Main Road,Gurgaon
+2,others,0.32,710.0,1,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,8.74,2500.0,10+,Unfurnished,East,not sure,4+,1,"Garden/Park, Pool",Mumbai
+3,others,1.95,1795.0,1,Unfurnished,East,not sure,3,3,Main Road,Hydrabad
+1,others,1.2,500.0,1,Unfurnished,East,available,1,1,Main Road,Mumbai
+1,Mira Road,0.6,666.0,10+,Unfurnished,West,available,2,2,Main Road,Mumbai
+2,others,1.32,1420.0,3,Semi-Furnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,1.45,2231.0,3,Unfurnished,West,available,3,1,Main Road,Hydrabad
+2,Andheri,2.21,700.0,5,Unfurnished,South -West,not sure,1,1,"Garden/Park, Main Road",Mumbai
+2,Bachupally,0.939,1445.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,0.65,1120.0,1,Unfurnished,South - East,not sure,2,1,Main Road,chennai
+3,others,1.33,1601.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,1.32,1660.0,2,Semi-Furnished,North - East,not sure,2,2,Main Road,Hydrabad
+2,others,5.3,900.0,9,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.28,715.0,2,Unfurnished,East,available,1,1,Main Road,Hydrabad
+3,others,1.5,1093.0,2,Semi-Furnished,East,available,2,4,Main Road,Gurgaon
+4,Sector 113,4.37,2597.0,10+,Semi-Furnished,East,available,4,3,Garden/Park,Gurgaon
+3,others,4.25,4241.0,10+,Semi-Furnished,North - East,available,4,4+,"Main Road, Pool",Gurgaon
+3,others,1.05,1900.0,2,Unfurnished,East,not sure,3,3,"Garden/Park, Main Road",Hydrabad
+3,others,1.45,1429.0,10,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,Sector 59,4.2,2974.0,10+,Semi-Furnished,North - East,available,4,4,"Garden/Park, Pool",Gurgaon
+4,others,2.5,240.0,1,Semi-Furnished,North,available,3,2,Main Road,Gurgaon
+3,Hennur Main Road,1.65,1740.0,10+,Semi-Furnished,West,not sure,3,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Hennur Main Road,1.3,1197.0,1,Furnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+3,others,1.73,1815.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,Sector 106,1.15,1385.0,5,Unfurnished,East,available,2,4,Garden/Park,Gurgaon
+2,others,0.75,1150.0,3,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+2,Sarjapura,0.595,915.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,others,0.55,875.0,1,Semi-Furnished,South,not sure,2,1,Main Road,chennai
+3,Kandivali,3.9,1003.0,10+,Furnished,North - East,available,3,1,"Garden/Park, Pool",Mumbai
+1,Mulund,1.34,439.0,5,Furnished,East,available,1,1,"Garden/Park, Main Road",Mumbai
+2,Velachery,0.65,700.0,0,Unfurnished,North - East,not sure,2,4+,Main Road,chennai
+3,others,2.38,1852.0,5,Unfurnished,North,not sure,3,2,Main Road,Hydrabad
+2,others,0.54,1035.0,2,Semi-Furnished,North,available,2,1,Garden/Park,chennai
+3,others,1.5,1700.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,1.02,1574.0,1,Unfurnished,East,available,3,1,Main Road,Bangalore
+1,others,1.3,320.0,5,Furnished,East,not sure,1,1,Main Road,Mumbai
+4,Sector 14,3.9,3240.0,4,Semi-Furnished,East,available,4,2,Main Road,Gurgaon
+3,Yapral,0.8,1515.0,1,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.62,1200.0,3,Unfurnished,South,available,2,2,"Garden/Park, Main Road, Pool",chennai
+3,Whitefield,1.4,1499.0,3,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+3,Kompally,1.3,2000.0,10,Unfurnished,East,not sure,3,2,"Garden/Park, Main Road",Hydrabad
+3,others,1.18,1445.0,9,Semi-Furnished,West,available,2,1,"Garden/Park, Main Road",Bangalore
+4+,HSR Layout,1.8,2400.0,10+,Semi-Furnished,East,not sure,4+,1,"Garden/Park, Main Road",Bangalore
+1,others,0.32,628.0,1,Unfurnished,East,not sure,1,4+,Main Road,chennai
+1,Virar,0.35,650.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Mumbai
+3,others,0.5720000000000001,1380.0,2,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,Manapakkam,0.45,1035.0,0,Semi-Furnished,South,not sure,2,4+,Main Road,chennai
+2,others,0.35,695.0,1,Furnished,East,not sure,1,1,Main Road,Bangalore
+2,others,0.4,945.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,3.6,1340.0,6,Furnished,South - East,available,2,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sector 63A,2.05,177.0,4,Unfurnished,East,available,3,1,Main Road,Gurgaon
+3,Sector 43,1.8,1536.0,8,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,others,1.0,2000.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+4,others,2.4,1900.0,2,Unfurnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.66,600.0,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,others,3.15,2300.0,2,Semi-Furnished,South -West,available,4,3,Garden/Park,Gurgaon
+3,others,2.05,1578.0,10+,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,3.8,1300.0,10+,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+4,Sector 92,0.598,1380.0,10+,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+3,Mulund,3.0,1050.0,10+,Unfurnished,North,not sure,3,1,Main Road,Mumbai
+3,others,3.5,1500.0,1,Semi-Furnished,West,available,2,3,"Garden/Park, Main Road",Bangalore
+2,others,0.72,1225.0,3,Semi-Furnished,North - East,not sure,2,2,Main Road,Hydrabad
+1,Kandivali,1.01,501.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+1,Borivali,0.95,520.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+1,others,0.235,200.0,0,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.3,695.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.45,1071.0,4,Unfurnished,East,available,2,1,Main Road,Hydrabad
+3,others,1.69,1785.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+1,Kengeri,0.42,645.0,1,Furnished,East,available,1,2,"Garden/Park, Main Road",Bangalore
+4,others,1.2,1770.0,10,Unfurnished,North - East,available,3,3,Garden/Park,Gurgaon
+1,others,1.0,442.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.92,1028.0,6,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+3,others,1.9,1570.0,4,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,Chembur,3.1,774.0,10+,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+2,others,0.65,950.0,4,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.475,975.0,4,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,others,0.8250000000000001,1500.0,1,Furnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,0.504,1430.0,5,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+4,Sector 102,2.0,1260.0,10+,Semi-Furnished,West,available,3,1,Main Road,Gurgaon
+1,others,0.24,650.0,1,Unfurnished,East,not sure,1,1,Main Road,chennai
+3,others,1.65,2400.0,2,Unfurnished,North,available,3,3,Main Road,Bangalore
+4,Sector 43,3.5,1360.2,4,Unfurnished,East,available,3,1,Main Road,Gurgaon
+2,Sector 2,0.3,743.0,5,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,Sector 89,2.78,1743.0,9,Semi-Furnished,West,available,3,3,Main Road,Gurgaon
+2,Medavakkam,0.6,965.0,3,Semi-Furnished,East,available,2,2,Main Road,chennai
+2,Velachery,0.9,805.0,1,Semi-Furnished,East,available,2,4+,"Garden/Park, Main Road",chennai
+2,others,0.47,1200.0,5,Unfurnished,North - West,not sure,2,1,"Garden/Park, Main Road",Hydrabad
+2,Kolathur,0.5910000000000001,911.0,1,Unfurnished,North,available,2,1,Main Road,chennai
+2,others,0.42,416.0,2,Unfurnished,West,available,2,1,Main Road,chennai
+3,Sector 79,2.0,1518.0,2,Semi-Furnished,East,available,3,2,Garden/Park,Gurgaon
+3,others,2.4,1800.0,1,Semi-Furnished,North,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,Kanjurmarg,2.3,750.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+1,others,0.8,500.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+2,others,1.1,1200.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+4,others,3.6,2200.0,4,Semi-Furnished,East,available,4+,4,Main Road,Gurgaon
+3,Hennur Main Road,0.98,1689.0,2,Semi-Furnished,East,available,3,2,Main Road,Bangalore
+3,Yapral,1.42,2187.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+1,others,0.46,240.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.8,984.0,1,Furnished,North,not sure,2,2,Main Road,chennai
+2,others,9.75,1500.0,4,Unfurnished,North,not sure,2,2,"Garden/Park, Main Road, Pool",Mumbai
+3,Mira Road,1.43,1450.0,8,Unfurnished,East,not sure,3,2,"Garden/Park, Main Road",Mumbai
+1,others,1.4,650.0,5,Semi-Furnished,West,available,2,2,Main Road,Mumbai
+3,Sector 49,3.5,554.0,4,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,Kandivali,2.79,1305.0,3,Semi-Furnished,East,available,2,3,"Garden/Park, Pool",Mumbai
+4,others,2.62,1200.0,3,Unfurnished,East,not sure,4,2,Main Road,Bangalore
+2,others,0.9,1024.0,5,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",chennai
+2,others,1.73,1562.0,3,Semi-Furnished,North - East,available,4,3,"Garden/Park, Pool",Gurgaon
+3,others,2.5,1996.0,9,Semi-Furnished,North,available,4,4+,Main Road,Gurgaon
+4,Goregaon,6.5,1800.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Pool",Mumbai
+3,others,2.35,1365.0,10+,Unfurnished,South - East,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.3,714.0,0,Furnished,East,not sure,2,4+,Garden/Park,chennai
+4,others,12.5,2000.0,5,Semi-Furnished,East,available,4,1,Main Road,Mumbai
+3,Worli,8.7,1916.0,10+,Unfurnished,East,available,4,1,Garden/Park,Mumbai
+1,others,1.4,850.0,6,Furnished,East,available,1,1,Main Road,Gurgaon
+3,others,1.25,1334.0,8,Unfurnished,North,not sure,3,1,Garden/Park,Bangalore
+4,others,1.5,2358.0,5,Unfurnished,East,available,2,3,Garden/Park,Gurgaon
+3,others,6.27,2186.0,5,Unfurnished,North - East,available,3,4,"Garden/Park, Main Road, Pool",Gurgaon
+3,HSR Layout,1.43,1548.0,2,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Bangalore
+3,others,4.7,2343.0,10+,Unfurnished,North - East,available,3,2,"Garden/Park, Main Road",Gurgaon
+3,others,4.0,2000.0,2,Unfurnished,North,available,3,3,Main Road,chennai
+2,others,1.71,775.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+2,Hennur Main Road,0.85,1352.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Panathur,2.79,2202.0,5,Unfurnished,North,available,3,2,"Garden/Park, Main Road, Pool",Bangalore
+4,others,3.8,2018.0,7,Furnished,North,available,3,3,"Main Road, Pool",Gurgaon
+4,others,2.1,2600.0,3,Semi-Furnished,West,available,3,2,Main Road,Hydrabad
+2,Ghatkopar,1.6,1000.0,1,Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.08,1768.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.7000000000000001,661.0,10+,Furnished,North - East,available,2,2,"Garden/Park, Main Road",Gurgaon
+2,Vile Parle,2.99,936.0,6,Semi-Furnished,West,available,3,1,Main Road,Mumbai
+1,others,1.15,555.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+1,Chembur,1.15,452.0,10+,Unfurnished,North - East,available,2,1,Garden/Park,Mumbai
+1,others,0.3,515.0,3,Unfurnished,East,not sure,1,1,Main Road,chennai
+1,others,2.5,700.0,4,Unfurnished,East,available,1,1,Main Road,Mumbai
+2,Borivali,1.9,830.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,others,4.51,1600.0,10+,Semi-Furnished,East,available,3,1,Garden/Park,Mumbai
+3,others,1.8,2065.0,4,Unfurnished,West,available,3,1,"Garden/Park, Main Road",Hydrabad
+2,Kandivali,1.52,1000.0,6,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,others,4.5,2164.0,10+,Semi-Furnished,North - East,available,4,3,Main Road,Gurgaon
+2,Padur,0.42,663.0,9,Unfurnished,West,not sure,1,1,Main Road,chennai
+3,others,3.7,3240.0,1,Semi-Furnished,North,available,3,2,"Garden/Park, Main Road",Gurgaon
+4+,Gachibowli,8.25,6600.0,5,Unfurnished,East,available,4+,4+,Main Road,Hydrabad
+3,Sarjapur Road,2.25,1454.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,1.53,2186.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Bangalore
+2,others,0.42,837.0,2,Unfurnished,North,not sure,2,2,"Garden/Park, Main Road",chennai
+2,others,1.0,855.0,1,Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.47,1080.0,4,Unfurnished,North,available,2,1,Main Road,Bangalore
+3,Prabhadevi,7.4,1950.0,10+,Unfurnished,West,available,4,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.85,1100.0,10,Unfurnished,West,available,2,2,"Garden/Park, Main Road",Gurgaon
+2,others,1.3,1337.0,6,Semi-Furnished,West,available,2,2,Garden/Park,Bangalore
+3,Porur,0.92,1160.0,1,Unfurnished,North,not sure,2,2,Main Road,chennai
+1,others,0.5,600.0,5,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+2,others,0.75,1044.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+4+,others,14.0,3250.0,4,Unfurnished,North - East,not sure,4+,4+,"Garden/Park, Main Road",Bangalore
+3,others,2.0,1860.0,0,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.59,1200.0,1,Unfurnished,East,available,2,1,"Garden/Park, Pool",chennai
+2,Sector 92,1.15,1190.0,3,Semi-Furnished,East,available,4,2,Main Road,Gurgaon
+2,Thiruvanmiyur,1.0,850.0,2,Semi-Furnished,South,available,2,1,Garden/Park,chennai
+2,Andheri,2.4,1127.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,0.95,1550.0,2,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road",Hydrabad
+4+,others,0.37,566.0,10+,Unfurnished,South,not sure,4+,4+,"Garden/Park, Main Road, Pool",chennai
+3,others,3.0,1935.0,9,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.37,950.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Urapakkam,0.428,952.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,0.74,1350.0,1,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Whitefield,1.12,1349.0,6,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Bangalore
+1,others,1.65,900.0,2,Semi-Furnished,South,available,2,1,Main Road,Mumbai
+4,Chembur,9.0,1900.0,10,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Mumbai
+3,Jakkur,1.26,1485.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,others,2.0,1650.0,10+,Semi-Furnished,East,available,3,3,"Garden/Park, Pool",Bangalore
+3,others,1.4,1485.0,2,Unfurnished,North,available,3,1,Main Road,chennai
+4,others,1.2,1200.0,4,Unfurnished,North,available,4+,3,Main Road,Bangalore
+2,Sector 36,0.8,1516.0,10,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,Malad,2.4,1165.0,6,Unfurnished,North,available,2,3,"Garden/Park, Main Road",Mumbai
+2,others,2.3,1186.0,2,Furnished,North,available,2,1,Main Road,chennai
+3,Sector 65,6.31,3702.0,4,Semi-Furnished,East,available,4,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.75,1633.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,others,0.75,1360.0,1,Furnished,North,not sure,2,2,Main Road,Hydrabad
+4,others,11.0,2251.0,10+,Unfurnished,East,available,4,1,"Garden/Park, Pool",Mumbai
+3,Goregaon,2.1,1035.0,10+,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+3,Velachery,0.8,1207.0,1,Semi-Furnished,North,available,2,4+,"Garden/Park, Main Road",chennai
+3,Sector 49,4.0,1993.0,8,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,others,2.95,823.0,10,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+2,others,0.68,1050.0,1,Semi-Furnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.55,876.0,2,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,0.992,1654.0,2,Unfurnished,North,available,3,1,"Garden/Park, Main Road, Pool",chennai
+1,others,0.64,350.0,1,Unfurnished,East,not sure,1,1,"Garden/Park, Main Road",Mumbai
+1,others,0.25,450.0,5,Unfurnished,East,not sure,1,1,Main Road,Hydrabad
+2,others,1.3,1200.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+1,others,1.6,750.0,0,Unfurnished,East,available,1,2,Main Road,Mumbai
+2,Medavakkam,0.559,857.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+2,others,0.32,990.0,1,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4,Sector 43,4.5,3500.0,1,Semi-Furnished,North - West,available,4+,2,"Garden/Park, Main Road",Gurgaon
+3,others,1.97,2000.0,3,Semi-Furnished,North,available,3,2,Main Road,Gurgaon
+1,Virar,0.16,750.0,1,Semi-Furnished,East,available,1,1,Garden/Park,Mumbai
+3,others,1.5,1790.0,2,Furnished,East,available,2,1,Main Road,Bangalore
+2,others,0.546,791.0,3,Unfurnished,North,not sure,2,1,Main Road,chennai
+2,Ambattur,0.3,650.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.7,2000.0,2,Unfurnished,North,not sure,3,2,Main Road,Hydrabad
+3,Panathur,2.55,1915.0,7,Unfurnished,East,available,3,3,"Garden/Park, Main Road, Pool",Bangalore
+3,Sector 71,2.17,1640.0,1,Furnished,North - East,available,3,2,"Garden/Park, Main Road, Pool",Gurgaon
+3,Mulund,2.75,1024.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+4+,others,3.75,5000.0,3,Semi-Furnished,South,available,4+,1,Main Road,Bangalore
+3,others,2.22,2220.0,10+,Unfurnished,West,not sure,4,2,"Garden/Park, Pool",Hydrabad
+3,others,3.1,1400.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+3,others,0.75,1480.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,others,2.02,1501.0,2,Semi-Furnished,West,available,3,3,Main Road,chennai
+3,others,1.52,2534.0,5,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.99,1230.0,2,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+3,others,0.7000000000000001,1600.0,10+,Unfurnished,East,not sure,4+,4+,Main Road,chennai
+4,Perambur,3.35,3161.0,10+,Unfurnished,North,not sure,4+,4+,"Garden/Park, Main Road, Pool",chennai
+4+,others,0.75,2400.0,3,Semi-Furnished,East,not sure,4+,4,Main Road,Bangalore
+3,Sector 49,2.0,1550.0,10+,Unfurnished,West,available,3,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.514,1071.0,4,Unfurnished,West,available,2,1,Main Road,Hydrabad
+3,Sector 25,2.67,300.0,3,Semi-Furnished,North - East,available,3,1,Main Road,Gurgaon
+2,others,1.6,1039.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,Whitefield,4.3,2753.0,9,Unfurnished,East,not sure,3,1,Garden/Park,Bangalore
+2,Pallikaranai,0.34,1008.0,0,Unfurnished,North,available,2,1,"Garden/Park, Main Road",chennai
+3,others,4.15,2750.0,2,Semi-Furnished,East,available,3,3,Garden/Park,Bangalore
+2,others,1.97,633.0,10,Unfurnished,East,not sure,2,1,Garden/Park,Mumbai
+2,others,1.0,1000.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+1,others,0.42,620.0,3,Semi-Furnished,East,not sure,1,1,Main Road,chennai
+2,others,1.4,950.0,10+,Unfurnished,East,not sure,2,2,"Garden/Park, Main Road, Pool",Mumbai
+2,others,2.3,1200.0,10+,Unfurnished,North,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Nizampet,0.95,1160.0,4,Furnished,East,available,2,1,Garden/Park,Hydrabad
+3,Sector 79,1.75,1510.0,10+,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,others,1.7,900.0,1,Unfurnished,South - East,available,2,1,Main Road,Mumbai
+2,others,0.75,1154.0,2,Semi-Furnished,South,available,2,1,Main Road,Hydrabad
+4,Sector 24,5.65,500.0,10+,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.637,1249.0,3,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,3.0,2130.0,1,Unfurnished,East,not sure,4,1,Main Road,Bangalore
+2,Sector 2,0.935,1264.0,10+,Semi-Furnished,North - East,available,4,1,"Garden/Park, Main Road, Pool",Gurgaon
+4,Worli,20.0,4500.0,1,Semi-Furnished,West,available,4+,1,Main Road,Mumbai
+2,Chembur,2.34,879.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+3,Chembur,6.5,2350.0,6,Unfurnished,East,available,3,1,Garden/Park,Mumbai
+2,Ambattur,0.3,696.0,1,Furnished,East,not sure,2,4+,Main Road,chennai
+3,Sector 89,1.3,1550.0,3,Unfurnished,East,available,3,3,Main Road,Gurgaon
+2,others,0.64,1188.0,2,Unfurnished,East,available,2,1,Main Road,Bangalore
+2,Avadi,0.35,609.0,2,Unfurnished,North,not sure,2,1,Garden/Park,chennai
+1,Banjara Hills,4.0,4500.0,1,Unfurnished,East,not sure,1,1,Main Road,Hydrabad
+1,Virar,0.33,575.0,10+,Unfurnished,East,not sure,1,1,Garden/Park,Mumbai
+2,others,0.45,1040.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+3,others,0.55,1357.0,5,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+4,Sector 57,3.8,2160.0,4,Furnished,East,available,4,2,Main Road,Gurgaon
+2,others,0.46,735.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.9,2100.0,10+,Unfurnished,East,not sure,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.5,809.0,1,Semi-Furnished,West,not sure,2,2,Main Road,chennai
+3,others,5.5,2450.0,9,Semi-Furnished,North,available,3,1,"Garden/Park, Main Road, Pool",Gurgaon
+4+,others,1.35,3000.0,2,Semi-Furnished,East,not sure,4+,1,Main Road,Hydrabad
+3,Miyapur,1.6,1778.0,5,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,Kollur,0.65,1300.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.43,760.0,3,Unfurnished,North,not sure,1,1,Main Road,Bangalore
+3,others,9.4,4170.0,1,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+2,others,1.95,848.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+3,others,3.31,1919.0,10+,Unfurnished,North - East,not sure,2,1,Main Road,Mumbai
+2,Ambattur,0.45,950.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,Sector 106,0.44,700.0,3,Unfurnished,East,available,1,1,Main Road,Gurgaon
+2,NH 9,0.5,1000.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,13.0,2200.0,4,Furnished,West,not sure,4,1,Garden/Park,Mumbai
+3,Chromepet,0.85,1165.0,3,Semi-Furnished,South,available,2,1,Main Road,chennai
+2,others,5.25,1075.0,7,Furnished,East,not sure,2,2,Main Road,Mumbai
+2,others,0.777,1090.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Gunjur,1.6,1680.0,7,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+4,others,5.25,3754.0,3,Unfurnished,East,not sure,4+,2,Main Road,Bangalore
+3,Sholinganallur,0.72,1355.0,1,Semi-Furnished,East,not sure,2,2,Main Road,chennai
+3,Sector 79,2.5,1580.0,8,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.53,1125.0,2,Semi-Furnished,East,available,2,2,Main Road,Bangalore
+2,others,0.84,1120.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+2,Sector 37D,0.36,1000.0,10,Unfurnished,North - East,available,2,2,Garden/Park,Gurgaon
+2,Nizampet,0.58,1189.0,1,Unfurnished,South - East,not sure,2,2,Main Road,Hydrabad
+2,others,0.57,878.0,5,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+1,Vile Parle,1.7,350.0,6,Furnished,East,not sure,1,1,Main Road,Mumbai
+3,Kondapur,1.15,1750.0,1,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,1.32,1495.0,10+,Semi-Furnished,North,available,2,2,Garden/Park,Bangalore
+2,HSR Layout,1.13,1298.0,2,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+2,HSR Layout,2.75,660.0,1,Furnished,South,not sure,2,1,Main Road,Bangalore
+3,others,1.6,1000.0,8,Semi-Furnished,North - West,available,2,3,Garden/Park,Gurgaon
+1,others,1.62,648.0,8,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Worli,5.99,1738.0,10+,Semi-Furnished,East,available,4,1,"Garden/Park, Main Road, Pool",Mumbai
+2,Padur,0.441,663.0,10+,Furnished,East,not sure,2,4+,Main Road,chennai
+4,Sector 89,3.76,2678.0,10+,Unfurnished,East,available,3,3,Main Road,Gurgaon
+3,Kelambakkam,0.9,1655.0,3,Semi-Furnished,South,available,3,2,"Garden/Park, Main Road",chennai
+3,others,1.3,1600.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,Borivali,2.89,997.0,10,Unfurnished,East,available,4,1,Garden/Park,Mumbai
+2,others,2.55,900.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Pool",Mumbai
+3,others,0.99,1540.0,5,Unfurnished,West,not sure,2,2,Main Road,Hydrabad
+2,Tellapur,1.5,1578.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Manikonda Jagir,0.93,1350.0,2,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,Kondapur,1.24,1498.0,10+,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,0.4,1050.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Krishnarajapura,0.583,1100.0,3,Semi-Furnished,North,available,2,1,Main Road,Bangalore
+3,others,0.85,1442.0,1,Unfurnished,West,not sure,3,2,Main Road,chennai
+2,others,0.9,930.0,4,Semi-Furnished,East,available,2,2,Main Road,chennai
+2,others,0.45,800.0,1,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,Banjara Hills,1.6,1650.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+1,others,0.42,650.0,10+,Unfurnished,East,not sure,1,1,"Garden/Park, Main Road",Mumbai
+1,Vile Parle,0.85,220.0,0,Unfurnished,North,available,1,1,Main Road,Mumbai
+3,others,1.3,959.0,1,Unfurnished,East,available,2,2,Garden/Park,Gurgaon
+2,Porur,0.9,1170.0,2,Semi-Furnished,North,available,2,2,"Garden/Park, Pool",chennai
+2,Sector 79,1.4,1494.0,1,Semi-Furnished,North,available,2,2,Garden/Park,Gurgaon
+3,others,2.1,2080.0,3,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+2,Kandivali,3.4,2800.0,1,Semi-Furnished,North,available,3,2,Garden/Park,Mumbai
+3,others,4.5,3350.0,3,Semi-Furnished,East,available,3,3,Main Road,chennai
+4+,others,9.25,4302.0,2,Furnished,East,available,4+,4+,Main Road,Gurgaon
+1,Andheri,1.5,750.0,9,Unfurnished,East,available,2,2,Main Road,Mumbai
+2,Manikonda Jagir,0.36,1200.0,5,Furnished,South,not sure,2,2,Main Road,Hydrabad
+3,others,0.5670000000000001,1260.0,2,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.6,1320.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Panathur,2.4,1611.0,10+,Unfurnished,East,available,3,2,Garden/Park,Bangalore
+2,others,1.1,1400.0,2,Semi-Furnished,North - East,available,2,2,Garden/Park,Gurgaon
+2,others,1.55,2000.0,2,Semi-Furnished,North,not sure,2,1,"Garden/Park, Main Road",Bangalore
+2,Kandivali,1.75,820.0,5,Furnished,East,not sure,2,1,Main Road,Mumbai
+2,Tellapur,0.794,1122.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,others,0.635,983.0,1,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road",chennai
+3,others,0.835,1442.0,1,Furnished,North - East,available,2,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,NH 9,1.3,1580.0,4,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+4,others,3.35,2780.0,5,Unfurnished,East,not sure,4,1,Main Road,Hydrabad
+3,Sector 43,2.0,1400.0,2,Furnished,East,available,3,1,Main Road,Gurgaon
+3,Bagaluru,1.15,1588.0,10+,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+2,others,2.3,1120.0,5,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,2.7,1510.0,4,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road",Mumbai
+2,others,0.58,1000.0,1,Furnished,East,not sure,2,2,Main Road,Bangalore
+2,others,0.747,1660.0,1,Semi-Furnished,East,available,2,1,Garden/Park,Gurgaon
+3,Prabhadevi,9.63,1338.0,10+,Semi-Furnished,West,available,4+,1,Garden/Park,Mumbai
+3,Miyapur,0.99,1600.0,2,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+4,Sector 49,5.79,3381.0,8,Semi-Furnished,North - East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,0.4,460.0,10+,Unfurnished,North - East,not sure,2,2,Main Road,Mumbai
+3,others,0.8300000000000001,1465.0,2,Unfurnished,East,available,2,1,Main Road,Hydrabad
+1,Ghatkopar,1.45,610.0,1,Furnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Gunjur,1.26,1345.0,2,Unfurnished,East,available,2,2,"Garden/Park, Pool",Bangalore
+3,Sector 37D,1.49,1250.0,4,Semi-Furnished,North,available,3,3,Main Road,Gurgaon
+2,others,0.4,788.0,0,Semi-Furnished,East,available,2,1,Main Road,chennai
+3,Malad,2.61,933.0,10+,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,others,1.27,1710.0,3,Unfurnished,North,available,2,2,Main Road,Bangalore
+2,Outer Ring Road,0.7000000000000001,1127.0,2,Unfurnished,West,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+4+,others,2.2,4500.0,1,Semi-Furnished,South,available,4+,4+,Main Road,Bangalore
+3,others,2.55,1680.0,10+,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,1.79,600.0,10,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Goregaon,2.76,1250.0,10,Unfurnished,East,available,3,1,Main Road,Mumbai
+2,others,1.3,1407.0,10+,Furnished,West,not sure,2,2,Garden/Park,Hydrabad
+1,others,0.21,640.0,1,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,0.75,1261.0,1,Semi-Furnished,South -West,available,3,2,"Garden/Park, Main Road, Pool",chennai
+2,JP Nagar,1.2,1530.0,7,Semi-Furnished,West,available,2,4,"Garden/Park, Main Road",Bangalore
+2,others,0.66,800.0,10+,Semi-Furnished,North - East,available,2,2,Garden/Park,Gurgaon
+3,others,0.9,1585.0,5,Furnished,West,not sure,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,2.55,1795.0,8,Semi-Furnished,East,available,2,2,"Garden/Park, Main Road",Gurgaon
+4,others,4.75,3093.0,10+,Unfurnished,East,not sure,4+,3,Main Road,Hydrabad
+3,Thiruvanmiyur,2.65,1500.0,4,Semi-Furnished,North,available,3,3,"Garden/Park, Main Road",chennai
+3,others,1.25,1200.0,2,Furnished,East,not sure,4,4,Main Road,Bangalore
+2,Santacruz,2.0,850.0,3,Furnished,North - West,not sure,2,1,Main Road,Mumbai
+4,others,3.34,3111.0,10+,Unfurnished,East,not sure,3,4+,Main Road,chennai
+2,Sector 26,0.75,691.0,10+,Unfurnished,North - East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,Gunjur,1.36,1300.0,8,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,Sector 79,1.79,1150.0,4,Unfurnished,East,available,3,2,Main Road,Gurgaon
+3,others,1.2,1600.0,8,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,Outer Ring Road,1.25,1930.0,4,Unfurnished,East,available,3,3,Garden/Park,Hydrabad
+3,others,1.1,1960.0,2,Semi-Furnished,East,not sure,3,2,Main Road,chennai
+3,Kondapur,1.84,1720.0,10+,Unfurnished,East,available,3,2,Garden/Park,Hydrabad
+2,Andheri,1.9,760.0,10+,Unfurnished,North,available,2,1,Pool,Mumbai
+3,others,7.0,1700.0,10+,Unfurnished,East,available,3,2,Main Road,Mumbai
+3,others,1.11,700.0,3,Semi-Furnished,East,available,4+,3,Garden/Park,Gurgaon
+3,Kondapur,1.35,1640.0,1,Semi-Furnished,East,not sure,3,1,"Garden/Park, Pool",Hydrabad
+3,Sector 65,2.5,2054.0,10,Semi-Furnished,North,available,3,4,Garden/Park,Gurgaon
+3,Thiruvanmiyur,1.1,1250.0,2,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.3,1500.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.7,1070.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.5,720.0,4,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+1,others,0.8,300.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,Malad,1.99,685.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,1.7,1300.0,3,Semi-Furnished,North - East,available,2,3,"Garden/Park, Main Road",Bangalore
+2,others,2.29,1196.0,10+,Unfurnished,West,available,2,1,"Garden/Park, Main Road",Mumbai
+2,Porur,0.51,1040.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+1,others,0.85,436.0,10+,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+2,Mulund,1.96,750.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+1,others,0.39,650.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+2,Outer Ring Road,0.7,1070.0,10+,Semi-Furnished,East,available,2,3,Main Road,Bangalore
+4+,others,18.0,4500.0,7,Semi-Furnished,East,available,4+,2,Garden/Park,Mumbai
+4+,Goregaon,15.5,3640.0,10+,Unfurnished,East,not sure,4+,2,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.65,1918.0,10+,Furnished,North,not sure,3,3,"Garden/Park, Main Road",Bangalore
+3,Sector 49,3.5,1800.0,9,Semi-Furnished,South,available,3,3,"Garden/Park, Main Road",Gurgaon
+2,JP Nagar,1.2,1460.0,4,Unfurnished,East,not sure,2,4,Main Road,Bangalore
+3,others,0.55,1330.0,1,Unfurnished,East,not sure,2,2,Main Road,chennai
+1,others,1.1,400.0,2,Unfurnished,West,not sure,1,1,Main Road,Mumbai
+4+,others,3.45,700.0,6,Unfurnished,East,available,1,1,Main Road,Gurgaon
+2,others,0.31,811.0,3,Semi-Furnished,North,available,1,4+,"Garden/Park, Main Road, Pool",chennai
+2,Pragathi Nagar,0.65,1070.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+4,others,2.29,2300.0,1,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Gurgaon
+1,Goregaon,0.935,425.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Kanjurmarg,3.5,1200.0,10+,Semi-Furnished,North - East,available,3,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,0.51,1109.0,1,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.72,1000.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,others,0.7320000000000001,1408.0,2,Unfurnished,East,available,3,1,Main Road,chennai
+4+,others,16.19,2303.0,10+,Semi-Furnished,South,available,4+,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.89,1630.0,10+,Unfurnished,East,not sure,3,2,"Main Road, Pool",Bangalore
+2,Goregaon,2.14,1310.0,10+,Unfurnished,East,available,2,1,Garden/Park,Mumbai
+3,others,2.0,1865.0,10+,Unfurnished,East,available,3,2,Garden/Park,Bangalore
+2,others,2.05,1050.0,3,Semi-Furnished,South,available,3,1,"Garden/Park, Main Road",Mumbai
+3,others,1.15,1793.0,5,Furnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,2.0,1658.0,2,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+2,NH 9,0.6950000000000001,1145.0,2,Semi-Furnished,West,not sure,2,2,Main Road,Hydrabad
+3,others,3.2,1200.0,10+,Unfurnished,West,not sure,3,1,Garden/Park,Mumbai
+2,Mira Road,0.72,625.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+1,others,0.43,340.0,7,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,2.3,2000.0,7,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,others,0.95,1735.0,2,Furnished,East,available,3,1,Main Road,Bangalore
+2,others,0.75,1000.0,4,Furnished,South,available,2,1,Main Road,Bangalore
+4,others,4.7,1813.0,4,Semi-Furnished,East,available,4,4,Main Road,Gurgaon
+2,others,0.32,625.0,4,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Kilpauk,0.85,900.0,4,Furnished,East,not sure,2,2,Main Road,chennai
+2,Kandivali,2.45,1152.0,10+,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,Borivali,4.35,1850.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.67,647.0,3,Unfurnished,South,not sure,2,4+,Main Road,chennai
+3,Outer Ring Road,1.15,1705.0,8,Semi-Furnished,East,available,2,3,Main Road,Bangalore
+2,others,1.98,1450.0,10,Unfurnished,East,available,2,1,Main Road,Gurgaon
+3,others,2.94,2028.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road, Pool",Mumbai
+4,Sector 49,4.25,4500.0,1,Unfurnished,North,available,4,2,Main Road,Gurgaon
+2,others,0.75,800.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.64,1024.0,2,Furnished,South,available,2,4+,Garden/Park,chennai
+1,others,1.03,410.0,10+,Semi-Furnished,East,available,1,1,Main Road,Mumbai
+3,others,2.0,1910.0,10,Semi-Furnished,East,not sure,4,3,"Garden/Park, Main Road, Pool",Bangalore
+2,others,4.15,1022.0,3,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.55,880.0,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,Sector 89,1.0,1103.0,1,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+2,Malad,2.25,1500.0,10+,Unfurnished,East,not sure,2,2,"Garden/Park, Pool",Mumbai
+2,others,1.0,650.0,1,Unfurnished,North - East,not sure,2,1,Main Road,Mumbai
+4,others,6.0,3035.0,8,Unfurnished,North - East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,1.4,1687.0,10,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,1.0,1225.0,3,Semi-Furnished,East,not sure,2,2,Main Road,Hydrabad
+3,JP Nagar,2.05,2002.0,10+,Unfurnished,West,not sure,3,2,"Garden/Park, Main Road, Pool",Bangalore
+3,others,0.76,1600.0,2,Unfurnished,West,available,3,1,Garden/Park,Hydrabad
+4,others,1.5,4500.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Andheri,4.9,2200.0,3,Semi-Furnished,East,available,4,1,Main Road,Mumbai
+2,others,0.65,1050.0,4,Semi-Furnished,North,available,2,1,Main Road,Hydrabad
+3,NH 9,0.87,1500.0,3,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,Gachibowli,1.35,1874.0,10+,Unfurnished,North,available,3,2,"Main Road, Pool",Hydrabad
+3,Andheri,4.5,1500.0,10,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,others,2.5,1513.2,6,Semi-Furnished,East,available,4,1,"Garden/Park, Pool",Gurgaon
+3,others,0.45,1100.0,4,Unfurnished,East,available,2,1,Garden/Park,chennai
+2,others,0.42,1188.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.36,1000.0,5,Unfurnished,East,not sure,2,1,Garden/Park,Hydrabad
+2,others,0.6,1100.0,3,Furnished,East,available,2,1,Garden/Park,Hydrabad
+2,Jakkur,1.07,1230.0,10,Semi-Furnished,West,available,2,1,Garden/Park,Bangalore
+3,Chanda Nagar,0.79,1350.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+3,others,1.2,1490.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+2,Bagaluru,0.87,939.0,7,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Kondapur,1.0,1610.0,2,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,1.7,900.0,4,Semi-Furnished,East,available,2,3,Main Road,Mumbai
+2,Thoraipakkam,1.11,1379.0,10+,Unfurnished,East,available,2,4+,Main Road,chennai
+3,Sarjapura,0.9,1680.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+3,Whitefield,2.48,1811.0,5,Furnished,East,available,3,3,"Garden/Park, Pool",Bangalore
+3,Pallikaranai,0.75,1250.0,0,Semi-Furnished,East,available,3,4+,Main Road,chennai
+2,Thanisandra Main Road,1.67,1675.0,7,Unfurnished,North - East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+4,others,4.65,3156.0,10+,Semi-Furnished,East,available,4+,4,"Garden/Park, Pool",Gurgaon
+2,others,0.55,1030.0,2,Unfurnished,South,not sure,2,2,Main Road,chennai
+2,Jakkur,0.63,1100.0,1,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.85,2030.0,4,Semi-Furnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,0.92,1500.0,8,Semi-Furnished,West,available,2,3,Main Road,Gurgaon
+1,others,0.61,605.0,1,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+1,others,0.185,616.0,0,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+2,Kondapur,1.47,1426.0,1,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,Bachupally,0.584,1100.0,1,Unfurnished,West,available,2,2,"Garden/Park, Main Road",Hydrabad
+3,Ambattur,0.55,1340.0,2,Semi-Furnished,East,not sure,2,3,Main Road,chennai
+3,Thoraipakkam,0.8490000000000001,1259.0,1,Unfurnished,South,not sure,2,2,Main Road,chennai
+2,Thoraipakkam,0.5700000000000001,877.0,3,Semi-Furnished,North,available,2,1,Main Road,chennai
+4+,Tellapur,1.4,1505.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,Avadi,0.25,539.0,2,Unfurnished,East,not sure,1,1,Main Road,chennai
+2,Andheri,3.4,1450.0,10+,Unfurnished,East,available,2,3,"Garden/Park, Main Road, Pool",Mumbai
+2,Chandapura,0.484,880.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+3,others,2.35,1875.0,10,Unfurnished,East,available,3,4+,Main Road,Gurgaon
+1,others,1.1,661.0,10+,Unfurnished,East,not sure,1,1,Main Road,Bangalore
+2,others,1.03,1241.0,1,Unfurnished,North,available,2,1,Main Road,Bangalore
+4,Sector 102,3.2,3200.0,10+,Semi-Furnished,North,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.35,1620.0,1,Semi-Furnished,North,available,2,2,"Garden/Park, Main Road",Gurgaon
+3,Sector 37D,3.75,2469.0,10+,Unfurnished,East,available,3,2,Main Road,Gurgaon
+3,Sholinganallur,0.96,1551.0,10+,Unfurnished,East,not sure,3,4+,Main Road,chennai
+2,Yelahanka,0.531,1106.0,10+,Semi-Furnished,North,available,2,1,Main Road,Bangalore
+2,Pragathi Nagar,0.5,1251.0,1,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,1.71,1000.0,2,Semi-Furnished,North,available,3,1,"Garden/Park, Main Road",Mumbai
+2,Sector 2,1.2,1457.0,10+,Unfurnished,South - East,available,2,4+,Garden/Park,Gurgaon
+3,NH 9,0.9,1300.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4,others,7.15,4337.0,7,Semi-Furnished,East,available,4+,4,"Garden/Park, Main Road",Gurgaon
+2,others,0.95,1199.0,10+,Unfurnished,West,not sure,2,2,Main Road,Bangalore
+3,Andheri,7.0,2260.0,10,Unfurnished,East,not sure,3,1,"Garden/Park, Pool",Mumbai
+3,others,1.2,2150.0,1,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.35,907.2,2,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,others,2.52,2015.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+1,others,0.23,610.0,1,Unfurnished,East,not sure,1,4+,Main Road,chennai
+4,others,3.15,3625.0,10+,Semi-Furnished,South - East,available,3,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.25,613.0,10,Semi-Furnished,East,not sure,1,4+,Main Road,chennai
+4,others,2.0,1700.0,2,Semi-Furnished,North,available,4,3,Main Road,chennai
+2,Sector 79,1.05,640.0,3,Semi-Furnished,East,available,1,1,Main Road,Gurgaon
+2,others,0.55,1072.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Kollur,0.9,1385.0,5,Unfurnished,East,available,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,1.0,1215.0,4,Semi-Furnished,East,not sure,2,2,Garden/Park,chennai
+4,others,2.3,2361.0,4,Furnished,East,available,3,4,Garden/Park,Gurgaon
+2,others,1.39,850.0,1,Unfurnished,East,available,2,1,Main Road,Mumbai
+4,others,2.85,2725.0,3,Unfurnished,East,available,4,1,Garden/Park,Gurgaon
+3,Kompally,1.82,2225.0,9,Unfurnished,North - East,not sure,4,2,Main Road,Hydrabad
+2,Goregaon,3.85,1150.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,0.55,1125.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,others,0.75,1175.0,2,Furnished,East,available,2,3,"Garden/Park, Main Road",Mumbai
+2,others,0.949,1261.0,10,Unfurnished,North,available,2,2,"Garden/Park, Pool",Bangalore
+2,Kandivali,1.45,611.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,0.72,1551.0,3,Unfurnished,East,available,3,2,Main Road,Hydrabad
+2,others,0.9,920.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,others,0.55,780.0,2,Unfurnished,South,available,2,4+,Garden/Park,chennai
+2,Kompally,0.63,1143.0,5,Semi-Furnished,North - East,not sure,2,2,Main Road,Hydrabad
+2,Malad,2.35,1050.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+4,others,3.2,2200.0,4,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,Sector 2,1.24,1462.0,9,Semi-Furnished,North,available,2,4,Main Road,Gurgaon
+2,Mulund,1.51,758.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Narsingi,0.85,1300.0,4,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.5,1135.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,Santacruz,4.2,1800.0,1,Furnished,East,not sure,3,1,Main Road,Mumbai
+4,others,4.9,2805.0,10+,Unfurnished,East,not sure,4,2,"Garden/Park, Main Road, Pool",Hydrabad
+1,others,0.45,675.0,1,Unfurnished,North,available,2,1,Main Road,Mumbai
+3,Avadi,0.72,1183.0,4,Unfurnished,South,not sure,2,1,"Garden/Park, Main Road, Pool",chennai
+1,others,0.9,450.0,8,Semi-Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.741,1398.0,2,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,0.7440000000000001,1488.0,10+,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+3,Kanjurmarg,2.45,1350.0,10+,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.0,445.0,1,Unfurnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.7090000000000001,1364.0,10+,Unfurnished,East,available,2,1,Main Road,Hydrabad
+2,Kolathur,0.48,800.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,Kengeri,0.652,1304.0,1,Unfurnished,North,available,2,1,Main Road,Bangalore
+2,others,0.285,1100.0,3,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+2,others,1.99,1050.0,10+,Unfurnished,East,available,3,1,Main Road,Mumbai
+3,others,2.09,1666.0,3,Semi-Furnished,South - East,available,3,2,Main Road,Gurgaon
+3,others,0.8,1550.0,6,Unfurnished,North,available,3,4,Main Road,Gurgaon
+2,others,0.32,874.0,2,Semi-Furnished,East,available,2,4+,Garden/Park,chennai
+2,others,0.5760000000000001,1087.0,1,Unfurnished,North - East,available,2,1,Main Road,chennai
+4,others,2.13,3235.0,10+,Unfurnished,East,available,4,3,Main Road,Gurgaon
+3,Jayanagar,2.5,1950.0,1,Unfurnished,North - West,available,4,2,Garden/Park,Bangalore
+3,Sector 61,5.25,2567.0,7,Unfurnished,North,available,4,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,1.25,2300.0,2,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,Malad,3.51,1176.0,1,Furnished,East,available,3,3,Main Road,Mumbai
+3,others,0.65,1512.0,2,Unfurnished,East,available,4+,3,Main Road,chennai
+2,others,3.4,1080.0,10+,Unfurnished,North - East,available,2,3,"Garden/Park, Main Road",Mumbai
+4,others,2.5,2400.0,10,Unfurnished,East,available,4,2,Garden/Park,Bangalore
+3,others,1.88,1831.0,3,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+3,others,3.25,2740.0,1,Semi-Furnished,West,available,3,4,"Garden/Park, Main Road",Bangalore
+2,others,0.45,900.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Sector 26,3.5,2700.0,9,Semi-Furnished,South - East,available,4,3,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,0.55,510.0,10+,Unfurnished,East,not sure,1,1,Main Road,Bangalore
+2,others,0.45,729.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+4+,Uppal,4.2,2466.0,10+,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,others,0.65,850.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+3,others,1.1,1593.0,2,Unfurnished,North - East,available,3,3,Main Road,Bangalore
+2,others,0.32,700.0,1,Unfurnished,North,available,2,1,"Garden/Park, Main Road",chennai
+1,Whitefield,0.45,733.0,6,Unfurnished,East,not sure,1,1,Main Road,Bangalore
+2,others,0.67,657.0,9,Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.549,748.0,1,Unfurnished,North - East,not sure,2,1,Main Road,chennai
+1,Vile Parle,1.0,500.0,2,Furnished,East,not sure,1,1,Main Road,Mumbai
+4,others,1.5,2400.0,2,Unfurnished,East,available,4,4,Main Road,Gurgaon
+2,Chembur,3.1,774.0,10+,Semi-Furnished,East,available,2,1,Main Road,Mumbai
+4,Sector 92,1.6,2090.0,10+,Unfurnished,North - East,available,4,3,Garden/Park,Gurgaon
+3,Kokapet,3.35,2490.0,6,Furnished,East,available,3,4,Garden/Park,Hydrabad
+2,Ambattur,0.42,1020.0,0,Unfurnished,North,not sure,2,4+,Garden/Park,chennai
+4,Sector 49,1.95,2061.0,1,Semi-Furnished,North - East,available,4,4,Main Road,Gurgaon
+2,Borivali,2.0,720.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,5.0,1200.0,4,Furnished,East,available,3,1,Main Road,Mumbai
+2,others,1.1,1050.0,0,Semi-Furnished,South,available,2,4+,Main Road,chennai
+2,others,2.72,1281.0,10+,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Mumbai
+2,others,0.45,1000.0,2,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4,Sector 43,3.6,2400.0,2,Unfurnished,East,available,4,3,Main Road,Gurgaon
+3,others,6.28,3140.0,1,Semi-Furnished,North,available,3,2,Main Road,chennai
+3,others,0.8,1250.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.92,978.0,1,Unfurnished,East,not sure,2,2,Main Road,chennai
+1,Bhandup,0.85,700.0,7,Unfurnished,North,available,2,1,"Garden/Park, Main Road",Mumbai
+1,Madipakkam,0.4,485.0,1,Unfurnished,East,not sure,1,1,Main Road,chennai
+2,others,0.51,1062.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,others,0.698,1396.0,1,Unfurnished,East,available,3,2,Main Road,Hydrabad
+1,Virar,0.15,350.0,4,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,others,0.74,1300.0,1,Semi-Furnished,East,available,2,1,Main Road,chennai
+3,Medavakkam,0.7340000000000001,1255.0,10+,Unfurnished,North,available,3,2,Main Road,chennai
+4,Worli,30.0,5920.0,10+,Unfurnished,East,available,4+,4,"Garden/Park, Main Road, Pool",Mumbai
+2,Kolathur,0.7000000000000001,900.0,1,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,others,0.78,1640.0,2,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+2,Sector 61,1.75,1150.0,3,Semi-Furnished,South,available,2,2,Garden/Park,Gurgaon
+2,Whitefield,1.03,981.0,10+,Unfurnished,East,not sure,2,1,Garden/Park,Bangalore
+2,Malad,2.2,1150.0,8,Semi-Furnished,East,available,2,4,"Garden/Park, Main Road, Pool",Mumbai
+3,others,2.8,1425.0,10+,Semi-Furnished,North,not sure,3,1,"Garden/Park, Main Road",chennai
+2,others,3.19,950.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Sector 102,2.0,1091.0,1,Semi-Furnished,North,available,2,2,Main Road,Gurgaon
+3,others,2.1,1600.0,10+,Unfurnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+1,Virar,0.42,355.0,10+,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,others,0.65,800.0,0,Semi-Furnished,East,not sure,2,4+,Main Road,chennai
+2,Mira Road,1.0,708.0,9,Semi-Furnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,1.2,1255.0,1,Semi-Furnished,North - East,available,2,2,"Garden/Park, Pool",Gurgaon
+4,Jayanagar,4.4,5200.0,4,Furnished,North,not sure,4,3,Main Road,Bangalore
+2,others,0.4,1055.0,5,Unfurnished,North - West,available,2,1,Main Road,Hydrabad
+2,Gunjur,1.31,1248.0,5,Unfurnished,North,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.4,498.0,8,Unfurnished,North - East,available,2,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.7000000000000001,925.0,1,Semi-Furnished,West,not sure,2,2,Main Road,Hydrabad
+1,others,0.17,220.0,2,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+2,Bachupally,0.63,1130.0,5,Unfurnished,West,not sure,2,1,Main Road,Hydrabad
+2,Andheri,2.8,850.0,9,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,1.5,1500.0,0,Semi-Furnished,South - East,available,3,4+,Garden/Park,chennai
+4,others,2.65,3045.0,10+,Semi-Furnished,East,available,4+,4,Main Road,Gurgaon
+2,Medavakkam,0.716,1071.0,1,Unfurnished,North,available,2,2,Main Road,chennai
+2,others,1.25,1600.0,5,Furnished,East,not sure,3,1,Main Road,Hydrabad
+4,Sector 63,7.3,3950.0,10+,Semi-Furnished,North - East,available,4+,4+,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.64,1360.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,Bagaluru,1.71,1670.0,10+,Unfurnished,East,not sure,3,2,Main Road,Bangalore
+2,others,0.682,1112.0,7,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.6709999999999999,1118.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+4,others,3.1,3300.0,1,Unfurnished,South,available,4,2,"Garden/Park, Main Road",Gurgaon
+2,others,0.42,940.0,4,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,Malad,0.905,512.0,10,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road, Pool",Mumbai
+1,Malad,0.63,445.0,10+,Unfurnished,East,not sure,1,1,Main Road,Mumbai
+3,Sector 37D,4.5,2350.0,2,Furnished,East,available,4,1,Main Road,Gurgaon
+3,Sector 89,2.0,2600.0,2,Semi-Furnished,East,available,3,2,"Garden/Park, Main Road, Pool",Gurgaon
+2,Goregaon,2.35,1300.0,10+,Semi-Furnished,East,available,2,4,"Garden/Park, Main Road",Mumbai
+3,Sarjapur Road,1.52,1590.0,6,Semi-Furnished,East,available,3,1,"Garden/Park, Main Road, Pool",Bangalore
+3,Sector 65,2.95,1828.0,8,Unfurnished,West,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+1,Avadi,0.32,550.0,1,Unfurnished,East,not sure,1,4+,"Garden/Park, Main Road",chennai
+2,Goregaon,2.0,900.0,4,Unfurnished,South - East,not sure,2,4,Garden/Park,Mumbai
+2,others,0.72,1140.0,3,Unfurnished,North - East,not sure,2,1,Main Road,Bangalore
+2,others,0.4,720.0,0,Unfurnished,West,not sure,2,4+,Main Road,chennai
+3,others,4.0,2122.0,10+,Furnished,North - West,available,3,4,Main Road,Gurgaon
+3,others,2.0,1668.0,2,Unfurnished,North,available,3,2,Main Road,Bangalore
+3,Sector 79,2.0,1528.0,2,Semi-Furnished,North,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,Sector 61,2.55,1549.0,10+,Unfurnished,East,available,3,3,Main Road,Gurgaon
+4+,others,2.5,3000.0,10+,Semi-Furnished,East,not sure,4+,1,Main Road,Bangalore
+2,Velachery,0.6,732.0,1,Furnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.65,1145.0,6,Furnished,North,not sure,2,1,Main Road,Hydrabad
+3,others,1.35,1207.0,3,Unfurnished,East,not sure,3,1,Main Road,Bangalore
+2,others,1.78,1184.0,10+,Semi-Furnished,East,available,2,1,Garden/Park,Mumbai
+1,others,0.5,525.0,9,Unfurnished,West,not sure,1,1,"Garden/Park, Main Road",Bangalore
+3,others,0.55,1409.0,2,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+3,others,4.32,2400.0,10+,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Outer Ring Road,0.5,1120.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+4+,others,10.0,2500.0,6,Furnished,East,not sure,4+,1,Main Road,Bangalore
+2,others,0.7,970.0,2,Semi-Furnished,West,available,2,1,Main Road,Bangalore
+1,Pallikaranai,0.46,620.0,6,Unfurnished,North,not sure,1,1,Main Road,chennai
+3,others,6.1,1645.0,5,Semi-Furnished,East,available,4,3,"Garden/Park, Pool",Mumbai
+3,others,1.3,1590.0,9,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,0.58,815.0,3,Semi-Furnished,East,not sure,2,1,Garden/Park,Mumbai
+2,others,0.42,905.0,0,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,others,0.8,795.0,10+,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.25,900.0,4,Semi-Furnished,North,available,2,1,Main Road,Bangalore
+3,Narsingi,1.19,1760.0,4,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,0.58,1007.2,3,Unfurnished,East,available,2,2,Main Road,Gurgaon
+4,others,2.5,2200.0,1,Semi-Furnished,West,available,3,3,Main Road,Gurgaon
+2,others,0.55,811.0,1,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+3,others,1.45,1500.0,2,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.28,485.0,6,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Narsingi,1.3,1810.0,10+,Unfurnished,East,available,3,2,"Garden/Park, Main Road",Hydrabad
+4+,Prabhadevi,30.0,5500.0,10+,Unfurnished,West,available,4+,1,Garden/Park,Mumbai
+2,NH 9,1.4,1872.0,1,Unfurnished,East,available,2,1,Main Road,Hydrabad
+1,others,0.437,676.0,10+,Semi-Furnished,East,available,1,1,Main Road,Mumbai
+2,Manikonda Jagir,1.15,1237.0,1,Semi-Furnished,East,not sure,2,1,Main Road,Hydrabad
+2,Anna Nagar,1.55,1110.0,3,Unfurnished,North,not sure,2,2,Main Road,chennai
+3,others,1.5,1650.0,10+,Furnished,East,not sure,3,1,Main Road,Bangalore
+4,Sector 49,3.5,2562.0,10+,Unfurnished,North,available,4,3,Pool,Gurgaon
+3,others,1.52,1335.0,4,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+2,others,0.8,1245.0,1,Semi-Furnished,North,not sure,2,2,Main Road,chennai
+1,others,1.39,428.0,10,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,others,1.1,1600.0,3,Semi-Furnished,East,not sure,3,2,Main Road,chennai
+2,others,0.65,1130.0,5,Semi-Furnished,East,available,2,1,Garden/Park,Bangalore
+3,others,1.35,1780.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+2,others,0.588,1120.0,3,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+4,Sarjapura,2.27,3128.0,5,Unfurnished,North,available,4,4,Garden/Park,Bangalore
+2,Chandapura,0.5,752.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Andheri,2.6,680.0,3,Furnished,South,available,3,1,Garden/Park,Mumbai
+3,Yapral,0.872,1585.0,1,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.8,1257.0,1,Semi-Furnished,West,available,2,2,Main Road,Hydrabad
+2,Bagaluru,0.85,908.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,3.45,1777.0,1,Unfurnished,West,not sure,3,2,Main Road,chennai
+3,Powai,4.12,1056.0,10+,Unfurnished,North - East,not sure,3,1,"Garden/Park, Main Road, Pool",Mumbai
+3,others,0.865,1640.0,2,Furnished,North,not sure,2,2,Main Road,Bangalore
+2,others,0.65,1187.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.9,704.0,3,Unfurnished,East,not sure,2,4+,Main Road,chennai
+2,Bagaluru,0.8,904.0,10+,Unfurnished,East,not sure,2,1,Main Road,Bangalore
+3,others,6.75,1250.0,10,Furnished,West,available,4,1,Main Road,Mumbai
+2,Mira Road,1.9,1216.0,8,Semi-Furnished,North - East,available,2,1,Main Road,Mumbai
+3,others,3.1,1609.0,1,Semi-Furnished,South,not sure,3,2,Garden/Park,chennai
+4,others,6.25,1500.0,3,Furnished,East,available,3,1,Main Road,Gurgaon
+4,Wadala,5.0,1700.0,2,Unfurnished,East,not sure,4,1,"Main Road, Pool",Mumbai
+2,others,0.71,1145.0,10+,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+2,others,0.43,708.0,10+,Unfurnished,East,available,2,1,Main Road,Bangalore
+3,others,1.28,1590.0,8,Semi-Furnished,East,available,2,2,Main Road,Hydrabad
+4,Gachibowli,1.8,2150.0,6,Semi-Furnished,East,not sure,3,3,Main Road,Hydrabad
+2,Mira Road,0.931,980.0,2,Unfurnished,North,not sure,2,4,Garden/Park,Mumbai
+3,others,3.0,3150.0,10+,Unfurnished,East,not sure,4,2,"Garden/Park, Main Road",Hydrabad
+2,others,0.55,829.0,1,Unfurnished,North,not sure,2,2,Main Road,chennai
+3,others,0.495,1503.0,3,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,1.8,1967.0,4,Semi-Furnished,South,not sure,4,1,Garden/Park,chennai
+2,others,2.8,950.0,1,Semi-Furnished,North - West,not sure,2,1,Main Road,Mumbai
+1,others,1.1,847.0,10+,Furnished,East,available,1,1,"Garden/Park, Main Road",Gurgaon
+3,others,1.1,1500.0,2,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+4,Outer Ring Road,3.3,5005.0,10+,Unfurnished,East,available,4,1,Main Road,Hydrabad
+4,others,3.9,2742.0,10+,Unfurnished,South,available,4+,1,Pool,chennai
+2,others,0.52,1070.0,3,Furnished,East,not sure,2,1,Main Road,Hydrabad
+4,Sarjapura,2.92,3485.0,2,Unfurnished,East,available,4,3,Main Road,Bangalore
+2,NH 9,0.43,750.0,2,Semi-Furnished,South,available,2,1,"Garden/Park, Main Road",Hydrabad
+3,Sector 79,1.75,2120.0,10,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+3,others,0.825,1800.0,1,Furnished,East,available,3,3,"Garden/Park, Main Road",Bangalore
+3,others,10.5,1800.0,10+,Furnished,East,not sure,3,1,Main Road,Mumbai
+4,others,1.8,2300.0,2,Unfurnished,East,not sure,4,3,Main Road,Hydrabad
+3,Kokapet,2.0,1100.0,2,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,2.1,2100.0,5,Unfurnished,East,available,3,3,Main Road,Gurgaon
+3,Sector 61,4.5,2250.0,10+,Unfurnished,East,available,3,3,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,1.45,600.0,4,Semi-Furnished,West,not sure,2,1,Main Road,Mumbai
+3,NH 9,0.95,1930.0,4,Furnished,East,not sure,3,2,Main Road,Hydrabad
+3,Outer Ring Road,1.1,1899.0,3,Semi-Furnished,North - West,not sure,3,2,Main Road,Hydrabad
+2,Pallikaranai,0.75,979.0,2,Unfurnished,North,not sure,2,1,Main Road,chennai
+3,Kompally,1.2,1362.0,5,Furnished,West,not sure,2,2,"Garden/Park, Main Road",Hydrabad
+2,others,4.5,770.0,10+,Unfurnished,East,available,2,1,Main Road,Mumbai
+3,Sector 79,1.6,1081.0,1,Unfurnished,West,available,2,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,0.56,1300.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Velachery,0.75,1020.0,1,Semi-Furnished,South,available,2,2,Garden/Park,chennai
+2,others,1.35,1100.0,1,Unfurnished,East,available,2,2,Main Road,chennai
+1,Andheri,1.35,600.0,2,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,4.5,4000.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+2,others,0.42,1100.0,2,Unfurnished,East,not sure,2,1,Main Road,chennai
+3,others,3.75,1400.0,7,Furnished,East,available,3,1,Main Road,Mumbai
+2,others,0.64,1360.0,1,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,Sector 65,5.6,3112.0,2,Unfurnished,East,available,3,4,"Garden/Park, Pool",Gurgaon
+3,others,1.55,1800.0,3,Unfurnished,East,available,2,2,Main Road,Bangalore
+3,others,2.0,1432.0,10+,Unfurnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+3,others,1.55,1160.0,1,Furnished,North - East,not sure,3,2,Main Road,Bangalore
+4,others,2.45,4680.0,1,Unfurnished,East,available,4,2,Main Road,Gurgaon
+2,others,0.48,531.0,10+,Semi-Furnished,East,available,2,4,Main Road,Gurgaon
+2,others,0.555,728.0,1,Semi-Furnished,North - West,not sure,2,1,Main Road,Hydrabad
+2,Manapakkam,0.65,1075.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,Outer Ring Road,0.5,1150.0,3,Unfurnished,East,available,2,1,Main Road,Hydrabad
+4,Sector 49,2.25,2799.0,3,Unfurnished,East,available,2,2,Main Road,Gurgaon
+4,Sector 25,6.5,1875.0,1,Unfurnished,East,available,4,4,Main Road,Gurgaon
+4,Sector 111,2.6,2200.0,8,Semi-Furnished,East,available,4,4,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,2.4,1264.0,8,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,others,3.52,1320.0,9,Furnished,East,available,4,4,Main Road,Mumbai
+2,others,0.4,1000.0,3,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Borivali,4.25,1770.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+4,others,7.14,3400.0,3,Unfurnished,East,available,4,2,Main Road,chennai
+4+,others,5.6,9000.0,3,Semi-Furnished,South - East,available,4+,4,Main Road,Hydrabad
+2,others,0.6,1100.0,3,Semi-Furnished,West,available,2,2,"Garden/Park, Main Road",Bangalore
+3,Krishnarajapura,2.03,2067.0,10+,Unfurnished,East,available,3,1,Main Road,Bangalore
+3,Malad,3.2,1740.0,4,Unfurnished,North,available,3,3,"Garden/Park, Main Road",Mumbai
+3,others,3.54,1886.0,10+,Unfurnished,East,not sure,3,4+,Main Road,chennai
+2,others,0.55,1000.0,4,Unfurnished,East,not sure,2,1,"Garden/Park, Main Road",Hydrabad
+3,others,0.58,1109.0,4,Semi-Furnished,West,not sure,2,1,"Garden/Park, Main Road",chennai
+3,others,1.8,1225.0,8,Semi-Furnished,East,available,2,2,Main Road,Gurgaon
+2,others,0.6,670.0,2,Unfurnished,East,available,3,1,Main Road,Gurgaon
+3,Kompally,0.93,1700.0,2,Furnished,East,not sure,3,1,Main Road,Hydrabad
+1,others,1.0,400.0,3,Unfurnished,North,not sure,2,2,Main Road,Mumbai
+2,Sarjapur Road,1.06,1334.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+3,others,5.65,1250.0,10,Unfurnished,East,not sure,4,2,"Garden/Park, Main Road",Mumbai
+1,others,0.68,650.0,10+,Unfurnished,East,not sure,2,3,"Garden/Park, Main Road, Pool",Mumbai
+3,others,3.5,1750.0,10+,Semi-Furnished,East,not sure,3,1,Garden/Park,Mumbai
+2,others,0.75,1341.0,1,Semi-Furnished,West,available,2,1,"Garden/Park, Main Road",Bangalore
+4,Bandra,29.74,3200.0,10+,Semi-Furnished,East,available,4+,1,Main Road,Mumbai
+3,others,1.56,1705.0,10+,Semi-Furnished,North - East,available,3,2,"Garden/Park, Main Road, Pool",Bangalore
+2,others,1.15,1215.0,2,Unfurnished,North,available,2,2,"Garden/Park, Main Road",Bangalore
+2,others,2.62,624.0,10,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+3,others,0.99,1520.0,2,Unfurnished,North,not sure,3,2,Garden/Park,Hydrabad
+4,Sector 57,4.25,3200.0,10+,Semi-Furnished,East,available,4+,2,Main Road,Gurgaon
+3,others,5.51,1007.0,10+,Unfurnished,East,available,4,1,Main Road,Mumbai
+2,others,1.8,1868.0,2,Semi-Furnished,East,not sure,2,2,Main Road,Bangalore
+1,Goregaon,1.1,481.0,1,Furnished,East,not sure,1,1,Main Road,Mumbai
+3,others,1.7,1534.0,3,Unfurnished,East,available,2,1,Pool,chennai
+3,others,3.9,2124.0,10+,Semi-Furnished,East,available,3,3,Main Road,Gurgaon
+3,Prabhadevi,10.48,1379.0,10+,Semi-Furnished,West,available,4,1,"Garden/Park, Main Road, Pool",Mumbai
+3,Borivali,2.3,900.0,6,Semi-Furnished,East,available,3,1,Main Road,Mumbai
+3,Kompally,1.0,1800.0,5,Unfurnished,East,available,3,2,Main Road,Hydrabad
+4,Sector 51,2.7,2300.0,1,Semi-Furnished,East,available,4,2,Main Road,Gurgaon
+3,others,0.62,1250.0,3,Unfurnished,West,not sure,2,1,Main Road,Hydrabad
+2,others,1.6,750.0,10+,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Puppalguda,1.13,1890.0,6,Unfurnished,East,available,3,2,"Garden/Park, Main Road, Pool",Hydrabad
+3,Sector 111,4.44,2277.0,10+,Semi-Furnished,North - East,available,3,4,"Garden/Park, Main Road, Pool",Gurgaon
+2,others,0.6,1050.0,2,Semi-Furnished,East,not sure,2,1,Main Road,Bangalore
+3,Sector 57,2.75,2000.0,2,Semi-Furnished,South - East,available,3,2,"Garden/Park, Main Road",Gurgaon
+3,Bandlaguda Jagir,0.92,1580.0,4,Unfurnished,East,not sure,3,3,Garden/Park,Hydrabad
+2,others,0.65,1035.0,1,Semi-Furnished,East,available,2,2,Main Road,chennai
+4,others,1.91,2885.0,9,Semi-Furnished,North - East,available,4,3,"Garden/Park, Main Road, Pool",Hydrabad
+3,Sector 36,0.9,1081.0,10+,Unfurnished,North,available,4+,4,"Garden/Park, Main Road",Gurgaon
+3,others,4.75,2300.0,10+,Semi-Furnished,North - East,available,3,3,Garden/Park,Mumbai
+3,others,1.6,2262.0,5,Unfurnished,East,available,3,2,Main Road,Gurgaon
+4,Sector 14,3.2,276.0,2,Semi-Furnished,North,available,4+,2,"Garden/Park, Main Road",Gurgaon
+3,others,2.35,1672.0,1,Semi-Furnished,North - East,available,3,2,Main Road,Gurgaon
+3,others,0.6,1216.0,4,Semi-Furnished,East,not sure,3,4+,Main Road,chennai
+2,others,2.25,1000.0,3,Semi-Furnished,North - East,not sure,2,1,Main Road,Mumbai
+2,others,1.39,1008.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+4,others,2.46,2200.0,10+,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.412,849.0,2,Unfurnished,West,not sure,2,1,Main Road,chennai
+2,Mira Road,1.0,969.0,10+,Unfurnished,East,not sure,2,1,"Garden/Park, Pool",Mumbai
+4,others,14.0,2500.0,1,Furnished,East,available,4+,1,"Garden/Park, Main Road",Mumbai
+3,Sector 106,3.7,2450.0,4,Semi-Furnished,North - East,available,3,3,"Garden/Park, Main Road",Gurgaon
+2,others,0.68,850.0,7,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Gurgaon
+3,JP Nagar,1.45,1850.0,1,Semi-Furnished,East,not sure,3,1,Main Road,Bangalore
+1,others,1.05,730.0,4,Semi-Furnished,East,not sure,2,1,"Garden/Park, Main Road",Mumbai
+3,Bachupally,0.85,1548.0,4,Semi-Furnished,East,available,2,1,Garden/Park,Hydrabad
+2,Perumbakkam,0.499,792.0,10+,Unfurnished,East,not sure,2,4+,Main Road,chennai
+3,Chanda Nagar,1.0,2000.0,6,Furnished,South,available,3,3,Main Road,Hydrabad
+3,Sector 106,2.8,1855.0,10+,Semi-Furnished,East,available,3,4,Main Road,Gurgaon
+2,others,0.65,1755.0,1,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+2,others,0.38,970.0,1,Unfurnished,East,not sure,2,2,Main Road,Hydrabad
+2,others,0.56,1160.0,4,Unfurnished,East,available,2,2,Main Road,Hydrabad
+3,Kondapur,1.1,1502.0,5,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+1,others,1.94,431.0,3,Unfurnished,East,available,2,1,Main Road,Mumbai
+1,others,0.6,350.0,2,Semi-Furnished,East,not sure,1,1,Main Road,Mumbai
+3,Velachery,1.05,1400.0,5,Furnished,East,not sure,3,2,Main Road,chennai
+4,others,6.85,3395.0,10+,Semi-Furnished,North - East,available,4,2,"Garden/Park, Pool",Gurgaon
+4,Ambattur,2.3,2124.0,5,Unfurnished,North,not sure,2,2,Garden/Park,chennai
+3,Mulund,2.51,900.0,10+,Unfurnished,North - East,available,3,1,Garden/Park,Mumbai
+3,Sector 49,4.69,1917.0,10+,Semi-Furnished,South -West,available,3,4,"Garden/Park, Main Road, Pool",Gurgaon
+1,others,1.2,835.0,4,Semi-Furnished,East,not sure,1,1,Main Road,Bangalore
+2,others,0.8,628.0,6,Furnished,North,available,1,1,Main Road,chennai
+3,Kondapur,2.1,2375.0,10+,Semi-Furnished,East,not sure,3,2,Garden/Park,Hydrabad
+2,Chembur,1.5,617.0,3,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Sector 106,4.04,2450.0,10+,Semi-Furnished,North - East,available,4,3,Garden/Park,Gurgaon
+4,others,20.6,3571.0,10+,Unfurnished,East,not sure,4,1,Main Road,Mumbai
+2,others,0.75,1318.0,5,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+1,others,0.107,375.0,2,Unfurnished,South,not sure,1,4+,Main Road,chennai
+3,others,1.99,1930.0,8,Semi-Furnished,East,available,3,4,"Garden/Park, Main Road",Gurgaon
+4,others,4.06,1975.0,10+,Unfurnished,East,not sure,4,1,Main Road,Hydrabad
+3,others,2.5,2500.0,2,Furnished,East,not sure,4,2,Main Road,Hydrabad
+1,others,0.7000000000000001,585.0,3,Furnished,East,not sure,1,1,"Garden/Park, Main Road",Mumbai
+2,others,0.56,1253.0,1,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+3,Hennur Main Road,1.75,1949.0,3,Unfurnished,East,not sure,3,1,"Garden/Park, Main Road",Bangalore
+2,others,0.32,1002.2,2,Unfurnished,East,available,3,1,Main Road,Gurgaon
+3,others,0.79,1290.0,2,Furnished,East,not sure,2,3,Main Road,Hydrabad
+3,Mira Road,1.95,1385.0,7,Unfurnished,South - East,not sure,2,4,"Garden/Park, Main Road",Mumbai
+4,Sector 85,2.6,2812.0,9,Semi-Furnished,North - East,available,4,3,"Garden/Park, Main Road, Pool",Gurgaon
+3,others,0.75,1900.0,7,Unfurnished,East,available,3,1,Main Road,Hydrabad
+4,others,4.0,3438.0,1,Semi-Furnished,North - East,available,4,2,Main Road,Gurgaon
+1,others,0.21,450.0,10+,Semi-Furnished,East,available,4,4,"Garden/Park, Pool",Gurgaon
+2,Whitefield,1.06,1334.0,2,Unfurnished,East,available,2,1,"Garden/Park, Main Road, Pool",Bangalore
+3,Mulund,2.4,1020.0,10,Semi-Furnished,East,not sure,3,1,Main Road,Mumbai
+2,others,1.5,570.0,6,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.77,2338.0,9,Semi-Furnished,East,available,3,3,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.42,920.0,0,Semi-Furnished,North,not sure,2,4+,Main Road,chennai
+2,others,0.63,805.0,2,Semi-Furnished,East,not sure,2,1,Main Road,chennai
+2,others,1.25,745.0,7,Unfurnished,North,not sure,3,1,Main Road,Mumbai
+2,others,3.7,900.0,4,Semi-Furnished,East,available,2,2,Garden/Park,Mumbai
+1,Chembur,1.18,566.0,10+,Unfurnished,North - East,available,1,1,"Garden/Park, Pool",Mumbai
+2,Sholinganallur,0.87,1143.0,2,Unfurnished,North,not sure,2,1,"Garden/Park, Main Road, Pool",chennai
+3,Thanisandra Main Road,2.5,1983.0,10+,Semi-Furnished,West,available,3,1,Garden/Park,Bangalore
+1,Mulund,1.3,410.0,4,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+3,Velachery,1.05,1390.0,10+,Unfurnished,North,not sure,3,1,Main Road,chennai
+3,others,0.8470000000000001,1380.0,1,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,1.8,1000.0,5,Semi-Furnished,East,available,2,1,Main Road,Gurgaon
+3,Sector 61,2.11,1100.0,2,Semi-Furnished,East,available,1,1,Main Road,Gurgaon
+3,others,0.95,1545.0,3,Unfurnished,East,not sure,3,3,"Garden/Park, Main Road",chennai
+3,Banjara Hills,2.65,2380.0,0,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,3.5,1100.0,4,Furnished,East,not sure,2,1,Main Road,Mumbai
+3,others,1.5,1800.0,3,Semi-Furnished,East,not sure,4,1,Main Road,Hydrabad
+1,others,0.22,460.0,0,Unfurnished,North,not sure,1,1,Main Road,Hydrabad
+3,others,1.25,1900.0,3,Furnished,North,not sure,3,2,Main Road,Hydrabad
+3,others,2.9,2200.0,10+,Unfurnished,North - East,available,3,3,"Garden/Park, Pool",Hydrabad
+3,others,0.87,1660.0,5,Semi-Furnished,East,not sure,3,1,Main Road,Hydrabad
+3,Outer Ring Road,1.1,1670.0,10+,Semi-Furnished,East,available,3,1,Main Road,Hydrabad
+2,others,0.6,900.0,3,Semi-Furnished,East,not sure,1,1,Main Road,Hydrabad
+2,Medavakkam,0.72,997.0,3,Unfurnished,East,not sure,2,1,Main Road,chennai
+3,others,0.85,740.0,7,Furnished,East,available,1,1,Main Road,Gurgaon
+4,others,8.15,3684.0,10+,Semi-Furnished,North - East,available,4+,4,"Garden/Park, Pool",Gurgaon
+1,Ghatkopar,1.1,500.0,1,Unfurnished,East,not sure,2,1,Main Road,Mumbai
+2,others,2.48,1250.0,10+,Semi-Furnished,East,available,2,2,Garden/Park,Mumbai
+2,others,0.51,1178.0,3,Unfurnished,East,not sure,2,1,Main Road,Hydrabad
+2,Sector 36,0.7000000000000001,3700.0,10+,Semi-Furnished,East,available,4,1,Main Road,Gurgaon
+2,others,0.7,938.0,4,Unfurnished,North,not sure,2,2,Garden/Park,Bangalore
+3,Malad,3.8,1600.0,10+,Unfurnished,East,not sure,3,1,Main Road,Mumbai
+3,others,1.45,1530.0,2,Furnished,East,not sure,3,2,Main Road,Hydrabad
+3,others,1.4,2205.0,1,Unfurnished,West,not sure,3,2,Main Road,Hydrabad
+2,others,0.48,826.0,8,Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,1.12,1180.0,10,Unfurnished,North,available,2,2,Garden/Park,Bangalore
+2,others,0.95,1276.0,3,Furnished,East,available,2,2,"Garden/Park, Main Road, Pool",Bangalore
+2,others,0.55,1225.0,4,Furnished,East,available,2,2,Main Road,Bangalore
+2,others,2.9,1235.0,8,Unfurnished,East,available,2,1,"Garden/Park, Main Road",Mumbai
+2,others,0.7000000000000001,1070.0,7,Semi-Furnished,North,not sure,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+3,others,1.4,2588.0,10,Semi-Furnished,North,available,4,3,Main Road,Gurgaon
+2,Outer Ring Road,0.54,1100.0,5,Unfurnished,North - East,available,2,1,"Garden/Park, Main Road, Pool",Hydrabad
+2,others,0.93,1022.0,3,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,Gunjur,1.26,1346.0,4,Unfurnished,East,available,2,1,"Garden/Park, Pool",Bangalore
+4,Sector 37D,5.2,3253.0,10+,Semi-Furnished,East,available,4+,1,Main Road,Gurgaon
+2,Kandivali,2.0,1000.0,4,Furnished,South,not sure,2,1,Main Road,Mumbai
+2,others,0.4,709.0,1,Unfurnished,East,not sure,2,1,Main Road,chennai
+3,others,1.55,1400.0,3,Furnished,East,not sure,3,2,Main Road,Bangalore
+2,others,0.735,1134.0,2,Furnished,East,not sure,2,1,Main Road,Bangalore
+2,others,0.49,1147.0,2,Unfurnished,North,not sure,2,1,Main Road,Bangalore
+2,Kilpauk,0.74,750.0,2,Unfurnished,South,not sure,1,1,Main Road,chennai
+4,Hennur Main Road,2.0,1960.0,1,Semi-Furnished,East,not sure,4,1,Main Road,Bangalore
+1,others,0.23,325.0,1,Unfurnished,East,not sure,1,1,Main Road,Hydrabad
+3,others,5.0,2588.0,2,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
+3,others,1.1,1715.0,3,Unfurnished,East,not sure,3,2,Main Road,Hydrabad
+2,others,0.37,673.0,1,Unfurnished,South,not sure,2,1,Main Road,chennai
+3,others,2.3,2455.0,2,Furnished,East,not sure,3,1,Main Road,Hydrabad
+2,others,1.65,1415.0,10,Unfurnished,East,not sure,2,1,"Garden/Park, Pool",Bangalore
+3,Sector 36,1.25,1081.0,1,Unfurnished,East,available,2,2,Main Road,Gurgaon
+2,others,0.32,2410.0,1,Semi-Furnished,East,available,3,1,Main Road,Gurgaon
+4,Sector 24,2.75,1750.0,10+,Unfurnished,East,available,4,2,"Garden/Park, Main Road",Gurgaon
+1,Virar,0.33,393.0,6,Furnished,East,not sure,2,1,Main Road,Mumbai
+2,others,0.4,2061.0,6,Unfurnished,East,available,4,4,Garden/Park,Gurgaon
+3,others,1.67,1878.0,7,Semi-Furnished,East,available,3,3,Garden/Park,Hydrabad
+2,Pallikaranai,0.45,850.0,1,Unfurnished,South,not sure,2,1,Main Road,chennai
+3,Kondapur,1.93,1950.0,10+,Unfurnished,East,not sure,3,1,Main Road,Hydrabad
+3,others,2.6,2153.0,1,Semi-Furnished,East,available,3,2,Main Road,Gurgaon
