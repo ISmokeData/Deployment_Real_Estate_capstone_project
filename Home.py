@@ -8,9 +8,9 @@ st.markdown(original_title, unsafe_allow_html=True)
 original_title = '<h1 style="font-family: serif; color:black; font-size: 20px; text-align: left;">Find your perfect home with our curated real estate listings</h1>'
 st.markdown(original_title, unsafe_allow_html=True)
 
-temperature = "hello"
+# temperature = "hello"
 
-st.write(f"temprature: :orange[{temperature}]")
+# st.write(f"temprature: :orange[{temperature}]")
 background_image = """
 <style>
 [data-testid="stAppViewContainer"] > .main {
@@ -25,7 +25,7 @@ background_image = """
 """
 
 st.markdown(background_image, unsafe_allow_html=True)
-temperature = "-10"
+temperature = ""
 
 
 input_style = """
